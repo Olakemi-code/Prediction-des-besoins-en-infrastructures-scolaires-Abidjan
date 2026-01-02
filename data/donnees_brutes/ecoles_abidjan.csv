@@ -1,0 +1,1448 @@
+id_osm,nom,latitude,longitude,type,operator,capacity,levels,source
+452872059,Le Phénix,5.354757,-3.9676635,school,Inconnu,,,OpenStreetMap
+768587329,Collège Gloris,5.3175272,-4.0886091,school,Inconnu,,,OpenStreetMap
+768587517,Institut Nelson Mandela Yop,5.3372107,-4.0736743,school,Inconnu,,,OpenStreetMap
+775786986,École maternelle,5.3512514,-3.953767,school,Inconnu,,,OpenStreetMap
+844756679,Collège Voltaire,5.3037534,-3.9936315,school,Inconnu,,,OpenStreetMap
+1219800010,Groupe scolaire Bad Maroc,5.3376201,-4.0936695,school,Inconnu,,,OpenStreetMap
+1219800042,Collège Sebaco,5.3312809,-4.1099067,school,Inconnu,,,OpenStreetMap
+1219800056,Groupe scolaire Gbaegui,5.3359281,-4.0902995,school,Inconnu,,,OpenStreetMap
+1959286281,École maternelle publique,5.357738,-3.8891876,school,Inconnu,,,OpenStreetMap
+1987355311,Mimy's School International,5.3279404,-3.9490797,school,Inconnu,,,OpenStreetMap
+1987808324,Pavillon d es Grâces,5.3256032,-3.9481633,school,Inconnu,,,OpenStreetMap
+1987812602,École Primaire Publique - Riviera CIAD,5.327895,-3.9456679,school,Inconnu,,,OpenStreetMap
+2364399477,Groupe scolaire DJE Loukou,5.3483157,-4.0337874,school,Inconnu,,,OpenStreetMap
+2382092672,EPV La Sorbonne,5.3673466,-4.0216813,school,Privé,,,OpenStreetMap
+2382129375,Institut Carine'N,5.3565782,-4.0157004,college,Institut Carine'N,,,OpenStreetMap
+2407413233,G.S Faidherbe,5.3452647,-4.0344723,school,Inconnu,,,OpenStreetMap
+2407426907,G.S Biegoussi,5.3447507,-4.0324093,school,Inconnu,,,OpenStreetMap
+2407426908,G.S Gebebouto,5.345318,-4.032381,school,Inconnu,,,OpenStreetMap
+2409344619,Les tulupes,5.4033319,-3.9851613,school,Inconnu,,,OpenStreetMap
+2412963901,École sans nom,5.3877074,-4.0203649,school,Inconnu,,,OpenStreetMap
+2442981623,Nid de Cocody,5.3429002,-4.0041297,school,Inconnu,,,OpenStreetMap
+2443011338,Centre De Formation Visio Enseignant,5.3386454,-4.0053526,college,Inconnu,,,OpenStreetMap
+2443138938,Collège Saint Joseph,5.4192875,-4.01794,school,Inconnu,,,OpenStreetMap
+2443140233,Collège Anador,5.4084706,-4.014552,school,Inconnu,,,OpenStreetMap
+2444853582,Groupe scolaire Victor Schoelcher,5.3523772,-4.0186406,college,Groupe scolaire Victor Schoelcher Adjamé,,,OpenStreetMap
+2446130567,Groupe Scolaire Saint-Louis,5.3467484,-4.0574525,school,Inconnu,,,OpenStreetMap
+2452041054,Groupe Scolaire Konate,5.3633882,-4.0175236,school,Groupe Scolaire Konate,,,OpenStreetMap
+2460401063,Groupe Naolie Formation,5.3248335,-4.0808932,school,Inconnu,,,OpenStreetMap
+2468313321,Groupe Scolaire Les Elites,5.427442,-4.0189792,school,Inconnu,,,OpenStreetMap
+2468315863,Collège Saint Étienne,5.4310147,-4.0190757,school,Inconnu,,,OpenStreetMap
+2468322139,Groupe Scolaire Sainte Jeanne,5.4066035,-4.0068583,school,Groupe Scolaire Sainte Jeanne,,,OpenStreetMap
+2474647609,Collège moderne Entente,5.301495,-3.9617873,school,Inconnu,,,OpenStreetMap
+2475586057,ISTCO,5.3040028,-3.961652,school,Inconnu,,,OpenStreetMap
+2486264244,École Primaire Les Bourgeons,5.3282784,-4.0763289,school,Inconnu,,,OpenStreetMap
+2486964755,Groupe scolaire Ste Marie Moisan,5.3018757,-3.9548557,kindergarten,Inconnu,,,OpenStreetMap
+2489356215,Les Cours Sociaux,5.4388428,-4.0150414,school,Inconnu,,,OpenStreetMap
+2489362763,Lycée Moderne Abobo 1 & 2,5.4282272,-4.0132996,school,Inconnu,,,OpenStreetMap
+2493724112,Collège Moderne Frantz Fanon,5.2977007,-3.9527588,school,Inconnu,,,OpenStreetMap
+2499814670,Lycée Moderne de Cocody,5.335433,-3.9953821,school,Inconnu,,,OpenStreetMap
+2575157263,Groupe Scolaire Angivoire,5.3656792,-3.9635856,school,Inconnu,,,OpenStreetMap
+2575479132,École régionale,5.307185,-4.0010472,school,Inconnu,,,OpenStreetMap
+2608380404,EPP Magic System,5.309656,-3.9764155,school,Inconnu,,,OpenStreetMap
+2629937478,Collège Moderne Elysée PK18,5.4427105,-4.0535512,school,Inconnu,,,OpenStreetMap
+2682089081,École Forestière,5.3843161,-4.0527968,college,Inconnu,,,OpenStreetMap
+2684707541,College Moderne Le Neophyte,5.2719763,-4.0048261,school,Inconnu,,,OpenStreetMap
+2685488022,Centre des metiers de l’eau de la Sodeci,5.3559153,-4.1029452,school,Inconnu,,,OpenStreetMap
+2760757175,École maternelle Mamie Adjoua,5.3101784,-3.9476239,school,Inconnu,,,OpenStreetMap
+2760879930,Institue Saint Collete,5.3080821,-3.9487322,school,Inconnu,,,OpenStreetMap
+2761136608,ISAM,5.3116211,-3.9419179,school,Inconnu,,,OpenStreetMap
+2860165031,Groupe Scolaire Victor Schoelcher,5.3588379,-3.9663728,school,Inconnu,,,OpenStreetMap
+2860203621,Groupe Scolaire Sogefiha Riviera 2,5.3541612,-3.9733335,school,Inconnu,,,OpenStreetMap
+2860205101,École Jean Piaget,5.3511062,-3.9819543,school,Inconnu,,,OpenStreetMap
+2902902615,Groupe scolaaire Le petit Faon,5.3565861,-4.0184776,school,Inconnu,,,OpenStreetMap
+2983246148,College moderne de Bingerville,5.3589715,-3.887702,school,Inconnu,,,OpenStreetMap
+3015620998,Les cours ys,5.3051558,-4.0042058,school,Inconnu,,,OpenStreetMap
+3017000113,Collège Montherlant,5.352539,-4.0207937,college,Inconnu,,,OpenStreetMap
+3017000117,École islamique,5.3504361,-4.0189261,school,Inconnu,,,OpenStreetMap
+3017000118,École memorial international group of school,5.3529633,-4.020454,college,Inconnu,,,OpenStreetMap
+3017000119,École primaire Cité-de-l'enfance,5.3491809,-4.018981,school,Inconnu,,,OpenStreetMap
+3017000122,Groupe scolaire Satigui Sangaré,5.3468582,-4.0248423,school,Inconnu,,,OpenStreetMap
+3017000127,Institut technique secondaire professionnel,5.3532813,-4.0195458,school,Inconnu,,,OpenStreetMap
+3070479368,Atlantique International Business School (AIBS) Côte d'Ivoire,5.343058,-4.0072783,college,Inconnu,,,OpenStreetMap
+3129139030,EPP Siporex 8 A-B,5.3451034,-4.0700918,school,Inconnu,,,OpenStreetMap
+3129140252,EPP Siporex 8 C-D,5.3454785,-4.0697135,school,Inconnu,,,OpenStreetMap
+3129543106,École Multinationale Supérieure des Postes d'Abidjan,5.2900911,-3.9985493,college,Inconnu,,,OpenStreetMap
+3131207797,EPP,5.3543644,-4.0304705,school,Inconnu,,,OpenStreetMap
+3132904625,Groupe Intellect Afrique,5.3416749,-4.0150885,school,Inconnu,,,OpenStreetMap
+3132905361,Africa Consulting Formation,5.3772571,-3.9632717,college,Inconnu,,,OpenStreetMap
+3132905788,Groupe Scolaire Hélène Hoba,5.3782682,-3.963828,school,Inconnu,,,OpenStreetMap
+3142632200,Institut Supérieur Sainte-Sophia,5.3677385,-3.9596035,college,Inconnu,,,OpenStreetMap
+3143709992,Centre De Bureautique De Communication Et De Gestion De Cocody,5.3500659,-4.0113233,college,Inconnu,,,OpenStreetMap
+3143709993,Cidfor,5.3504736,-4.0106804,school,Inconnu,,,OpenStreetMap
+3143709994,Centre de Promotion des Nouvelles Technologies de L'information et de la Communication,5.3490019,-4.0103815,college,Inconnu,,,OpenStreetMap
+3145395507,Collège Thanon Namako,5.3764451,-3.9925831,school,Groupe Scolaire Thanon Namako,,,OpenStreetMap
+3157662884,Notre-Dame de la Paix,5.3035364,-4.0031127,school,Inconnu,,,OpenStreetMap
+3170439282,Centre internationnal de formation routiere,5.3947159,-3.991119,school,Inconnu,,,OpenStreetMap
+3170439284,Sainte Famille de l'enfant Jesus,5.3944809,-3.9894641,school,Inconnu,,,OpenStreetMap
+3170460529,Groupe EIT NTIC,5.3909031,-3.9844709,school,Inconnu,,,OpenStreetMap
+3170471414,Groupe Scolaire Internationnal les Cygnes,5.3927847,-3.9869667,school,Inconnu,,,OpenStreetMap
+3174960706,Eurof,5.2901647,-3.9772583,school,Inconnu,,,OpenStreetMap
+3175182789,Collège Segbe,5.3260655,-4.0493028,school,Inconnu,,,OpenStreetMap
+3177106071,École Dpmmi,5.3596349,-4.0267931,college,Inconnu,,,OpenStreetMap
+3177106072,Les Alouettes,5.3585614,-4.0262392,college,Privé,,,OpenStreetMap
+3179129779,École Primaire Catholique,5.3088574,-3.9720215,school,Inconnu,,,OpenStreetMap
+3183124796,EPP Anoumabo,5.3084629,-3.9773892,school,Inconnu,,,OpenStreetMap
+3183124798,Institut Froebel,5.3113711,-3.9737254,school,Inconnu,,,OpenStreetMap
+3191557677,École ivoirienne de bijouterie et des métiers annexes,5.2915465,-3.985815,school,Inconnu,,,OpenStreetMap
+3191557679,École de Commerce et Gestion (ECG),5.2931151,-3.9860404,college,Inconnu,,,OpenStreetMap
+3209388187,Cours Primaire Notre-Dame du Plateau,5.328032,-4.0223148,school,Inconnu,,,OpenStreetMap
+3209887180,ESTTA,5.3254486,-4.0210703,college,Inconnu,,,OpenStreetMap
+3209890018,Groupe École Superieur de Technologies et d'Administration,5.3254491,-4.0209628,college,Groupe École Superieur de Technologies et d'Administration (GESTA),,,OpenStreetMap
+3210911331,College Safop,5.2866249,-3.9758672,college,Inconnu,,,OpenStreetMap
+3210918910,École les sept nains,5.2870736,-3.9768113,college,Inconnu,,,OpenStreetMap
+3252662006,EPV Guy Wroh,5.4379723,-4.0520783,school,Inconnu,,,OpenStreetMap
+3252669877,EPV Christine,5.4380264,-4.0524508,school,Inconnu,,,OpenStreetMap
+3282261352,Victorloba'd,5.4111167,-3.994632,school,Inconnu,,,OpenStreetMap
+3282322597,École sans nom,5.4236617,-3.9918977,school,Inconnu,,,OpenStreetMap
+3284931347,Assemblée de Dieu,5.4208635,-4.0115378,school,Inconnu,,,OpenStreetMap
+3302594276,Les Oliviers,5.3586869,-3.990203,school,Groupe Scolaire Les Oliviers,,,OpenStreetMap
+3302594277,Les Oliviers,5.3587254,-3.9901788,kindergarten,Groupe Scolaire Les Oliviers,,,OpenStreetMap
+3310991357,Batidécor Créations et Formation,5.3685447,-3.9916168,college,Inconnu,,,OpenStreetMap
+3356281410,Groupe Scolaire Genie 2000,5.3742021,-3.9359068,school,Inconnu,,,OpenStreetMap
+3380878933,Institut Superieur Tertiaire et de Technologie Avancée (ISFOP) - Industriel,5.287071,-3.9719377,college,Groupe LOKO,,,OpenStreetMap
+3395000993,EPP,5.4140389,-4.0124975,school,Inconnu,,,OpenStreetMap
+3395000994,La Ribambelle,5.415521,-4.0165561,school,Inconnu,,,OpenStreetMap
+3406198867,American Lady Beauty Institut (ALBI)-ISEPT-IPB,5.3590064,-3.9961754,college,Groupe Academique Booth,,,OpenStreetMap
+3406198870,École Le Fleuron des Deux-Plateaux,5.3595913,-3.9949602,kindergarten,Inconnu,,,OpenStreetMap
+3406198871,École Le Fleuron des Deux-Plateaux,5.3596315,-3.9949588,school,Inconnu,,,OpenStreetMap
+3417338444,École Blanche Neige,5.3750684,-3.9997165,school,Inconnu,,,OpenStreetMap
+3499729205,École sans nom,5.2551646,-3.996762,school,Inconnu,,,OpenStreetMap
+3501986047,École sans nom,5.2635991,-3.9868457,school,Inconnu,,,OpenStreetMap
+3502009701,École sans nom,5.2655091,-3.9853819,school,Inconnu,,,OpenStreetMap
+3503972423,École sans nom,5.2604429,-3.9612381,school,Inconnu,,,OpenStreetMap
+3503972566,École sans nom,5.2602238,-3.9604814,school,Inconnu,,,OpenStreetMap
+3504088762,École primaire selmaire commissariat,5.2572759,-3.9602101,school,Inconnu,,,OpenStreetMap
+3504091047,Legacy Institute,5.3222132,-4.018615,college,Inconnu,,,OpenStreetMap
+3504850137,École sans nom,5.2504829,-3.9570369,school,Inconnu,,,OpenStreetMap
+3504902701,École sans nom,5.2590415,-3.9675714,school,Inconnu,,,OpenStreetMap
+3505248700,Groupe Scolaire Selmer,5.2568894,-3.969805,school,Inconnu,,,OpenStreetMap
+3505270280,École sans nom,5.2563246,-3.9674902,school,Inconnu,,,OpenStreetMap
+3558250245,Ecole Supérieure d'Interpretariat et de Traduction,5.3800521,-3.9883762,college,Inconnu,,,OpenStreetMap
+3563743115,Groupe CERCO,5.3760563,-3.9931362,school,Inconnu,,,OpenStreetMap
+3575293778,École Tinasso,5.3958768,-4.0119596,school,Inconnu,,,OpenStreetMap
+3577237356,Groupe Scolaire Les petits Soleil,5.3222765,-4.0540371,school,Inconnu,,,OpenStreetMap
+3647576535,Institution de la formation et d’éducation féminine,5.3431297,-4.0264168,school,Inconnu,,,OpenStreetMap
+3784306933,Cour Secondaire Methodiste du Plateau,5.3300855,-4.0201543,school,Inconnu,,,OpenStreetMap
+3860550674,EPP Groupe Nord,5.4245233,-4.0120897,school,Inconnu,,,OpenStreetMap
+3860892595,EPV le Dialogue,5.4206759,-4.0143522,school,Inconnu,,,OpenStreetMap
+3860909296,EPV la Réussite,5.4217977,-4.0137152,school,Inconnu,,,OpenStreetMap
+3860909297,EPV le Baobab,5.4229658,-4.0120379,school,Inconnu,,,OpenStreetMap
+3870718396,École sans nom,5.4312597,-4.0189376,school,Inconnu,,,OpenStreetMap
+3931437122,Collège Saint Augustin,5.3233794,-4.055925,school,Inconnu,,,OpenStreetMap
+3936374505,ASA Formation,5.3223513,-4.050953,college,Inconnu,,,OpenStreetMap
+3950187296,Onyx Excellence,5.3557824,-4.0696234,college,Inconnu,,,OpenStreetMap
+3953727653,Collège Voltaire laboratoire 1 et 2,5.302152,-4.0046604,school,Inconnu,,,OpenStreetMap
+3974043660,XC International Excellence University,5.3570707,-3.9910064,college,Inconnu,,,OpenStreetMap
+3995475497,École pilote,5.3037036,-3.9744107,school,Inconnu,,,OpenStreetMap
+3995475503,Inefficace Marcory Remblais,5.3010532,-3.9732908,school,Inconnu,,,OpenStreetMap
+3995475505,Institut des sciences appliqués et de technologie,5.2912055,-3.969599,college,Inconnu,,,OpenStreetMap
+4000853784,Petit seminaire Saint Augustin de Bingerville,5.3566168,-3.8853486,school,Inconnu,,,OpenStreetMap
+4002252631,Institut Supérieur des Carrières Commerciales (ISCC),5.3607639,-3.9894753,college,Inconnu,,,OpenStreetMap
+4002254749,École Mary Poppins,5.3602531,-3.9899315,kindergarten,Inconnu,,,OpenStreetMap
+4002476470,École Primaire Sicogi,5.337817,-4.0779975,school,Inconnu,,,OpenStreetMap
+4002514238,École Sicogi,5.3407551,-4.077628,school,Ministere de l'Education Nationale,,,OpenStreetMap
+4002514251,École Primaire BAD Sogefiha,5.3377452,-4.0813318,school,Ministere de l'Education Nationale,,,OpenStreetMap
+4002541750,École William-Ponty,5.3441807,-4.0727146,school,Inconnu,,,OpenStreetMap
+4016931964,Institut Supérieur des Carrières Commerciales (ISCC),5.2996855,-3.9974827,college,Inconnu,,,OpenStreetMap
+4058031589,Groupe Scolaire Port 2,5.2906658,-4.0069843,school,Inconnu,,,OpenStreetMap
+4086612522,Institut Soma Samake,5.3507632,-4.0177458,school,Inconnu,,,OpenStreetMap
+4246957379,Konaté Fret,5.4275018,-4.0166297,school,Inconnu,,,OpenStreetMap
+4247031513,École Primaire SOS Herman Gmeiner,5.4312538,-4.0157999,school,Inconnu,,,OpenStreetMap
+4247031514,Epp Habitat,5.4321848,-4.0159182,school,Inconnu,,,OpenStreetMap
+4247031515,Groupe Scolaire Les Pingouins,5.4357543,-4.0190313,school,Inconnu,,,OpenStreetMap
+4247045380,Institut Adam Marshall,5.4369238,-4.020145,college,Inconnu,,,OpenStreetMap
+4247063019,Groupe Scolaire Siporex 1,5.3541329,-4.0756511,school,Inconnu,,,OpenStreetMap
+4249740365,Epp Fairmont,5.3602979,-4.0364457,school,Inconnu,,,OpenStreetMap
+4258333103,EPP Port-Bouet 2 Plateau,5.3474656,-4.0897036,school,Inconnu,,,OpenStreetMap
+4258348301,Collége privé l'Abondance,5.3477497,-4.0871964,school,Inconnu,,,OpenStreetMap
+4264707861,Collège Saint François,5.3249747,-4.0650945,school,Inconnu,,,OpenStreetMap
+4295482537,College Carnot,5.320967,-4.1047065,school,Inconnu,,,OpenStreetMap
+4295482538,EPP Caistab 2,5.32031,-4.1053596,school,Inconnu,,,OpenStreetMap
+4295504429,Lycée Municipal Pierre Gadier,5.3265005,-4.0725642,school,Inconnu,,,OpenStreetMap
+4314450182,Collège moderne Dorian,5.3188786,-4.0631395,school,Inconnu,,,OpenStreetMap
+4331386902,Collège Jeanne de Cavally,5.3610846,-4.0665642,school,Inconnu,,,OpenStreetMap
+4346043373,Groupe scolaire Sylla l’exellence,5.3291494,-4.1027884,school,Ministère de l’éducation nationale et de l’enseignement technique,,,OpenStreetMap
+4368676195,ISG YOH,5.396803,-3.985946,school,Inconnu,,,OpenStreetMap
+4374133489,EST LOKO,5.3084136,-3.9921555,school,Inconnu,,,OpenStreetMap
+4379452257,École sans nom,5.3144045,-4.0871134,school,Inconnu,,,OpenStreetMap
+4383602225,Collège Saint Chalmel,5.3232023,-4.1026746,school,Inconnu,,,OpenStreetMap
+4385223842,Institut des Technologies d'Abidjan,5.2955698,-3.979802,college,Inconnu,,,OpenStreetMap
+4385486311,École Supérieure Africaine des Technologies de l'Information de la Communication,5.2906335,-3.9987569,college,Inconnu,,,OpenStreetMap
+4385670403,École de Spécialités Multimedia d'Abidjan,5.2996787,-3.9872444,college,Inconnu,,,OpenStreetMap
+4394661065,École Nouvelle Supérieure d'Ingénieurs et de Technologie,5.3632161,-3.9977265,college,Groupe Farandole Internationale,,,OpenStreetMap
+4404306512,École Supérieure de Commerce Castaing,5.3200755,-4.0113891,college,Inconnu,,,OpenStreetMap
+4404522197,Institut de Formation Professionnelle et Générale - Institut Supérieur de Formation Professionnelle et Technique,5.3261949,-4.0254236,college,Inconnu,,,OpenStreetMap
+4404574076,Pigier Côte d'Ivoire,5.3254276,-4.0202633,college,Inconnu,,,OpenStreetMap
+4405015189,École Pratique de la Chambre de Commerce et d'Industrie,5.3189504,-4.0182931,college,Inconnu,,,OpenStreetMap
+4407248378,lvf Formation,5.3394409,-4.0006249,school,Inconnu,,,OpenStreetMap
+4410618631,Groupe Ecoles d'Ingénieurs Agitel-Formation,5.3643399,-3.9559462,college,Inconnu,,,OpenStreetMap
+4411128299,Hautes Etudes Commerciales d'Abidjan,5.3491483,-3.9959555,college,Inconnu,,,OpenStreetMap
+4411158940,Groupe Ecole des Hautes Etudes Commerciales-Abidjan,5.3480376,-3.9981306,college,Inconnu,,,OpenStreetMap
+4411512439,École Nationale Supérieure de Statistique et d'Economie Appliquée,5.3491152,-3.9890944,college,"L'Etat de Côte d'Ivoire, UEMOA, BAD",,,OpenStreetMap
+4411562347,GS Jean Paul II,5.3472075,-4.0635738,school,Inconnu,,,OpenStreetMap
+4411562363,Lycée Saguidiba,5.3271412,-4.0912815,school,Inconnu,,,OpenStreetMap
+4411568179,Institut National des Aveugles,5.3525131,-4.0619248,school,Inconnu,,,OpenStreetMap
+4411925716,Groupe Cefiat,5.3175037,-4.0171109,college,Inconnu,,,OpenStreetMap
+4412012957,Institut Supérieur de Formation des Opticiens,5.3183391,-4.0193708,college,Inconnu,,,OpenStreetMap
+4426157410,École Supérieure de Commerce Castaing,5.3200671,-4.0128756,college,Inconnu,,,OpenStreetMap
+4428007994,EPV Marie Paul,5.3194821,-4.0630725,school,Inconnu,,,OpenStreetMap
+4445392578,All Nations International School,5.3604748,-3.9925775,school,Inconnu,,,OpenStreetMap
+4449390313,Collège Sôna,5.3311053,-4.0616736,school,Inconnu,,,OpenStreetMap
+4455435810,Collège Merajea,5.3259228,-4.0758889,school,Inconnu,,,OpenStreetMap
+4466531691,Cafop Groupe scolaire RAN,5.3252298,-4.0253739,school,Inconnu,,,OpenStreetMap
+4484216289,Les Ateliers de Patricia,5.2869192,-3.9778532,kindergarten,Inconnu,,,OpenStreetMap
+4485187396,Institut d’enseignement général et scientifique As Pouchkine,5.4502305,-4.0110704,school,Inconnu,,,OpenStreetMap
+4485187398,Groupe Scolaire Le nid des colombes,5.4450218,-4.0146163,school,Inconnu,,,OpenStreetMap
+4485187399,École confessionnelle islamique An nour,5.4384917,-4.0338196,school,Inconnu,,,OpenStreetMap
+4485187401,Groupe scolaire Sainte Ruth,5.4380466,-4.0288427,school,Inconnu,,,OpenStreetMap
+4485187404,EPC Al Manarat Islamiyat,5.4295521,-4.0237391,school,Inconnu,,,OpenStreetMap
+4485202194,Collège Iris 2,5.4332797,-4.0260518,school,Inconnu,,,OpenStreetMap
+4485218891,Collège confessionnel islamique Fah Doumbia,5.4420858,-4.014124,school,Inconnu,,,OpenStreetMap
+4485222092,Collège éducation Paix Développement,5.4506926,-4.0109761,school,Inconnu,,,OpenStreetMap
+4485222093,Collège Chris le Roi,5.4459904,-4.0142022,school,Inconnu,,,OpenStreetMap
+4485222691,Groupe Scolaire Male Gbinde Akeikoi extension,5.4518296,-4.0073483,school,Inconnu,,,OpenStreetMap
+4505713790,Groupe Scolaire Winner Grâce Faveur,5.4081908,-3.9865227,school,Inconnu,,,OpenStreetMap
+4505846689,Sup'Management Côte d'Ivoire,5.3553951,-3.9919271,school,Inconnu,,,OpenStreetMap
+4512175543,Centre National de Recherche Agronomique,5.3302242,-4.1310465,school,Inconnu,,,OpenStreetMap
+4520590163,Groupe Scolaire BAD LEM,5.3318894,-4.0761155,school,Inconnu,,,OpenStreetMap
+4520949560,Institut scolaire Saint Cyrille,5.3406737,-4.0883669,school,Inconnu,,,OpenStreetMap
+4528338092,École primaire publique Zinsou,5.3687361,-3.9771626,school,Inconnu,,,OpenStreetMap
+4545131332,Groupe Scolaire International Safak,5.3522379,-4.0064303,school,Inconnu,,,OpenStreetMap
+4545131333,Epp Camp Agban A-B-C,5.3630401,-4.0136964,school,Inconnu,,,OpenStreetMap
+4545131334,Epp Ouattara Thomas d'Aquin 1-2,5.3616808,-4.0088879,school,Inconnu,,,OpenStreetMap
+4545140263,Epp les perles 1 et 2,5.3919712,-3.9964565,school,Inconnu,,,OpenStreetMap
+4545141224,Groupe Scolaire Shalom,5.3692676,-4.0078566,school,Inconnu,,,OpenStreetMap
+4545168902,Groupe Scolaire les coteaux Riviera 2,5.3582942,-3.9565803,school,Inconnu,,,OpenStreetMap
+4545182388,Groupe Scolaire Avicennes,5.3729928,-3.9582832,school,Inconnu,,,OpenStreetMap
+4545182589,Groupe Scolaire Attoban,5.3704065,-3.9820858,school,Inconnu,,,OpenStreetMap
+4545201908,Groupe Scolaire Star 3,5.3933878,-3.9933739,school,Inconnu,,,OpenStreetMap
+4545255305,Epp Djibi 3,5.4058428,-3.977841,school,Inconnu,,,OpenStreetMap
+4545255306,Groupe Scolaire Horokia,5.4116359,-3.9869398,school,Inconnu,,,OpenStreetMap
+4545255307,Institut Scolaire Lavoisier,5.4162047,-3.9798272,school,Inconnu,,,OpenStreetMap
+4545278655,Epp Danga,5.3388459,-4.0069634,school,Inconnu,,,OpenStreetMap
+4545284515,École Normale Supérieure,5.342622,-3.9852671,school,Inconnu,,,OpenStreetMap
+4545284516,Epp Blokoss 2,5.3229163,-4.0037046,school,Inconnu,,,OpenStreetMap
+4545284517,Epp Blokoss 1,5.3231788,-4.0036562,school,Inconnu,,,OpenStreetMap
+4545284519,Groupe Scolaire 2 plateaux Sud 1 et 2,5.349695,-4.0067086,school,Inconnu,,,OpenStreetMap
+4545316922,Epp K. Oestrem,5.3481515,-3.9552071,school,Inconnu,,,OpenStreetMap
+4545316925,Groupe Scolaire Riviera Golf 1,5.3410318,-3.9773951,school,Inconnu,,,OpenStreetMap
+4545325663,École Catholique Sainte Famille,5.3541034,-3.9688976,school,Inconnu,,,OpenStreetMap
+4545325664,Groupe Soclaire Akouedo Camp Militaire,5.3537402,-3.9449427,school,Inconnu,,,OpenStreetMap
+4545336930,Epp Canevas,5.3691181,-3.9596915,school,Inconnu,,,OpenStreetMap
+4545336931,Epp Hibamax,5.3674171,-3.9633573,school,Inconnu,,,OpenStreetMap
+4545336932,"Groupe Soclaire Lauriers 8,9et 10",5.3639655,-3.9326024,school,Inconnu,,,OpenStreetMap
+4545336933,Epp Coulibaly Karimou,5.3836772,-3.9597544,school,Inconnu,,,OpenStreetMap
+4546903310,Epp Akouedo Village,5.3539867,-3.940561,school,Inconnu,,,OpenStreetMap
+4546915939,EPV l'Athennée des Anges,5.3368171,-3.9775684,school,Inconnu,,,OpenStreetMap
+4552168183,Institution de Formation et d'Education,5.3442036,-4.068011,school,Inconnu,,,OpenStreetMap
+4558356893,Groupe scolaire Prim’Élite,5.417957,-3.988535,school,Inconnu,,,OpenStreetMap
+4580182700,ISNT,5.3943716,-3.9887033,school,Inconnu,,,OpenStreetMap
+4585606791,Institut universitaire d'abidjan,5.3808143,-3.9888047,school,Inconnu,,,OpenStreetMap
+4590446784,Groupe Scolaire Selmer Hôpital,5.2598329,-3.9629395,school,Inconnu,,,OpenStreetMap
+4590447986,Les institutions de formation et d’éducation féminine Port-Bouët,5.2600436,-3.963344,school,Inconnu,,,OpenStreetMap
+4594337092,College Frélec,5.333478,-4.0634197,school,Inconnu,,,OpenStreetMap
+4665630596,Université nord-sud et Institut Famah,5.3977058,-3.9882326,school,Inconnu,,,OpenStreetMap
+4666234443,La Routilantell,5.3328452,-4.1140269,school,Inconnu,,,OpenStreetMap
+4681797533,Groupe scolaire Saint Hubert,5.3674251,-4.064933,school,Inconnu,,,OpenStreetMap
+4688382890,Groupe scolaire Saint Emmanuel,5.3178655,-4.0971667,school,Inconnu,,,OpenStreetMap
+4748628140,EPP Sebroko,5.3464764,-4.0343282,school,Inconnu,,,OpenStreetMap
+4791795460,École sans nom,5.3980998,-4.0067902,school,Inconnu,,,OpenStreetMap
+4791795470,Sainte Elisabeth,5.4010701,-4.0076015,school,Inconnu,,,OpenStreetMap
+4793775521,XC,5.3575078,-3.9910251,school,Inconnu,,,OpenStreetMap
+4799025488,Les petits genies du millenaire,5.313508,-4.1029618,school,Inconnu,,,OpenStreetMap
+4847783106,Groupe scolaire Lauriers 2,5.3161428,-4.0977385,school,Inconnu,,,OpenStreetMap
+4852611021,Groupe Scolaire Front Lagunaire,5.31247,-4.011285,school,Inconnu,,,OpenStreetMap
+4876151224,Collège Notre Dame d'Afrique Bietry,5.2715595,-3.9743796,school,Inconnu,,,OpenStreetMap
+4884335482,École Methodististe de Koumassi,5.291525,-3.956996,college,Inconnu,,,OpenStreetMap
+4886182695,Notre Dame de l’Incarnation,5.4309187,-4.0392451,school,Inconnu,,,OpenStreetMap
+4888619748,Al Itratou,5.4431547,-4.0113457,school,Inconnu,,,OpenStreetMap
+4892640141,Groupe scolaire Saint Etienne,5.2922835,-3.9617756,school,Inconnu,,,OpenStreetMap
+4907381549,Grand Seminaire Saint Cœur de Marie d’Anyama,5.496011,-4.0651302,school,Inconnu,,,OpenStreetMap
+4911185413,Groupe Scolaire La Regle D'Oribat,5.3347424,-3.9363039,school,Inconnu,,,OpenStreetMap
+4918726528,Groupe Scolaire Antoine de Saint-Exupéry,5.3197051,-4.11107,school,Inconnu,,,OpenStreetMap
+4971199724,Collège les Phalènes,5.3303622,-4.0614213,school,Inconnu,,,OpenStreetMap
+4971200021,École primaire l'acajou,5.3308452,-4.0625297,school,Inconnu,,,OpenStreetMap
+4988310821,École sans nom,5.3709261,-3.8718378,school,Inconnu,,,OpenStreetMap
+4992734922,Groupe Scolaire Nanti Abobo,5.4066246,-4.0107277,school,Inconnu,,,OpenStreetMap
+5015043905,Collège Singa,5.3266735,-4.0624759,school,Inconnu,,,OpenStreetMap
+5015121911,École Les graines de la réussite,5.3148291,-4.1094925,school,Inconnu,,,OpenStreetMap
+5015121912,GS Les tisserins,5.3183566,-4.101394,school,Inconnu,,,OpenStreetMap
+5025218722,Sup Elite,5.3418725,-3.9995184,college,Inconnu,,,OpenStreetMap
+5043287722,Epp M'Be Adopo,5.2870202,-3.9784108,school,Inconnu,,,OpenStreetMap
+5106794721,CPPE Azito,5.3045278,-4.0811407,kindergarten,Inconnu,,,OpenStreetMap
+5106794821,CPPE Niangon,5.3243026,-4.0907284,kindergarten,Inconnu,,,OpenStreetMap
+5106806821,CPPE Yopougon Attié,5.3420262,-4.0806733,kindergarten,"Ministère de la Femme, de la Protection de l'Enfant et de la Solidarité",,,OpenStreetMap
+5106806822,CPPE Adjamé 220 logements,5.3491619,-4.0168649,kindergarten,Ministère de la Protection de l'enfant et de la Solidarité,,,OpenStreetMap
+5106806830,CPPE Port Bouët 1,5.2603096,-3.9613803,kindergarten,"Ministère de la Femme, de la Protection de l'enfant et de la Solidarité",,,OpenStreetMap
+5106814230,Centre de Protection de la Petite Enfance de Cocody Sud,5.3343515,-4.0004113,kindergarten,"Ministère de la Femme, de la Protection de l'Enfant et de la Solidarité",,,OpenStreetMap
+5106817026,CPPE Cocody Nord,5.3375717,-3.9997228,kindergarten,"Ministère de la Femme, de la Protection de l'enfant et de la Solidarité",,,OpenStreetMap
+5107401323,Groupe Scolaire Pierre et Marie Curie,5.2460017,-3.8945136,school,Inconnu,,,OpenStreetMap
+5107401324,EPV Hebron,5.2448089,-3.8947518,school,Inconnu,,,OpenStreetMap
+5107403622,Groupe Scolaire Pierre et Marie Curie,5.2433599,-3.8959963,school,Inconnu,,,OpenStreetMap
+5125512323,Université du Maghreb,5.3635124,-3.978895,college,Inconnu,,,OpenStreetMap
+5142822221,Université Internationale Des Sciences Appliquées Et Technologies,5.3625148,-3.9984304,college,Inconnu,,,OpenStreetMap
+5143191788,Centre d'éducation specialisé (CESREEF),5.3433009,-3.9633446,school,Inconnu,,,OpenStreetMap
+5151232221,École supérieure tertiaire,5.3535451,-3.9917243,college,Inconnu,,,OpenStreetMap
+5154226937,Institut Supérieur de Gestion et de Management,5.3440906,-4.0048461,college,Inconnu,,,OpenStreetMap
+5154242821,Institut Supérieur Technique Saint-Jacques,5.3442582,-4.0052169,college,Inconnu,,,OpenStreetMap
+5156857621,École sans nom,5.4393471,-4.0240868,school,Inconnu,,,OpenStreetMap
+5174385645,Orphelinat de Garçons de Bingerville,5.361113,-3.8879191,school,"Ministre de la Solidarité, de la Famille, de la Femme et de l'Enfant",,,OpenStreetMap
+5174751555,Lycée de garçons de Bingerville,5.3573776,-3.8913596,school,Inconnu,,,OpenStreetMap
+5176876330,EPP ANYAMA SUD,5.4826641,-4.0540087,school,Inconnu,,,OpenStreetMap
+5209368540,EPP Gabriel gare,5.3587592,-4.0715852,school,Inconnu,,,OpenStreetMap
+5209368929,Sainte Thérèse d’Avila,5.3839532,-3.9923587,school,Inconnu,,,OpenStreetMap
+5254420164,École du Cours Sévigné Primaire,5.2916485,-3.9781577,school,Inconnu,,,OpenStreetMap
+5263855965,Groupe scolaire La miséricorde,5.3139133,-4.1078214,school,Inconnu,,,OpenStreetMap
+5267752321,College methodiste (CSP) Yopougon,5.3273258,-4.067104,school,Inconnu,,,OpenStreetMap
+5276925898,EPP Sicogi4,5.3421048,-4.0700349,school,Inconnu,,,OpenStreetMap
+5276997584,EPP Siporex2,5.3441104,-4.0646169,school,Inconnu,,,OpenStreetMap
+5284325822,Cestia 2ep,5.3556749,-4.0043397,school,Inconnu,,,OpenStreetMap
+5307294323,Collège moderne Marie Blanche,5.4413724,-4.0055338,school,Inconnu,,,OpenStreetMap
+5352166641,ACE / ADOI Centrale electronique,5.3279597,-4.1051954,school,Inconnu,,,OpenStreetMap
+5356984521,Groupe scolaire Sainte Ruth,5.3501392,-4.0570211,school,Inconnu,,,OpenStreetMap
+5368112584,Collège Jeunnes Filles Singa,5.3292887,-4.0493363,school,Inconnu,,,OpenStreetMap
+5370813325,Guichanrolin,5.3501227,-4.0949459,school,Inconnu,,,OpenStreetMap
+5378162821,Anader,5.367681,-3.8714596,school,Inconnu,,,OpenStreetMap
+5381691421,Maurice DelaFosse,5.3387004,-3.9822578,kindergarten,Inconnu,,,OpenStreetMap
+5383119048,Centre de formation des Sœurs de la Doctrine Crétienne,5.3243574,-4.0869395,school,Inconnu,,,OpenStreetMap
+5390465864,Collège Jean-Baptiste de la Salle 2,5.3409311,-4.0533181,school,Inconnu,,,OpenStreetMap
+5390465887,Collège privé Oscad,5.3318424,-4.0395811,school,Inconnu,,,OpenStreetMap
+5390466052,Groupe Scolaire Le savant,5.3219204,-4.0456322,school,Inconnu,,,OpenStreetMap
+5390466053,Collège Djedje Abel,5.322556,-4.0486443,school,Inconnu,,,OpenStreetMap
+5393357625,Institut Pedagogique National de l'Enseignement Technique et Professionnel,5.3491078,-4.0081437,school,Inconnu,,,OpenStreetMap
+5399012095,Groupe scolaire Gandhi,5.3246417,-4.0596715,school,Inconnu,,,OpenStreetMap
+5401527623,Kiyala,5.4309568,-3.9888237,school,Inconnu,,,OpenStreetMap
+5405448227,École supérieure,5.3243267,-4.0595408,school,Inconnu,,,OpenStreetMap
+5438063827,Groupe Scolaire Collège-Victor Schoelcher,5.3385556,-4.0633589,school,Privé,,,OpenStreetMap
+5457856709,GS Les papillons,5.3822093,-3.9898508,school,Inconnu,,,OpenStreetMap
+5476175021,Groupe Scolaire Fahondy,5.3609279,-3.9709317,school,Inconnu,,,OpenStreetMap
+5494672322,Collège Nathan Yopougon,5.3586347,-4.0950103,school,Inconnu,,,OpenStreetMap
+5494672421,GS Mamie Adjoa,5.3614246,-4.0947248,school,Inconnu,,,OpenStreetMap
+5495005421,EMPT,5.3602114,-3.8911339,school,Inconnu,,,OpenStreetMap
+5519926322,Groupe scolaire La Silhouette,5.2484303,-3.9235711,school,Inconnu,,,OpenStreetMap
+5554937293,Collège Albert Schweitzer,5.3188127,-4.2586885,school,Inconnu,,,OpenStreetMap
+5584175433,Groupe Scolaire SICOGI 8,5.3361882,-4.0585376,school,Inconnu,,,OpenStreetMap
+5597273822,Living Water Ministries-CI,5.3573897,-3.9665451,school,Inconnu,,,OpenStreetMap
+5600082722,Collège Michel Vako,5.4487679,-4.0722908,school,Inconnu,,,OpenStreetMap
+5683275527,EPP Anyama Debarcadère,5.4309293,-3.9238185,school,Inconnu,,,OpenStreetMap
+5691779521,Université methodiste,5.3161759,-4.1352542,school,Inconnu,,,OpenStreetMap
+5752526913,École privée Sainte Sephora,5.3233245,-4.0735304,school,Inconnu,,,OpenStreetMap
+5804043055,École bilingue Sabil Hidayat (franco-arabe),5.3053802,-3.9550025,college,Inconnu,,,OpenStreetMap
+5918671916,Ecole Primaire Methodiste Yopougon,5.3266327,-4.0672186,school,Inconnu,,,OpenStreetMap
+5921863122,Institut Freobel Maternelle Et Primaire,5.3486837,-4.0611722,school,Inconnu,,,OpenStreetMap
+5921863144,École Supérieure de Marketing de l'Information et de Technologie (ESMIT),5.3484354,-4.0595133,college,Inconnu,,,OpenStreetMap
+5921895900,Groupe Scolaire GFCI,5.3512006,-4.0608329,school,Inconnu,,,OpenStreetMap
+5921917914,EPV Freobel II,5.351198,-4.0626146,school,Inconnu,,,OpenStreetMap
+5922144386,College Méthodiste,5.3469537,-3.9944323,school,Inconnu,,,OpenStreetMap
+5922389525,Ecole Maternelle primaire le Rucher,5.3455699,-4.0543923,kindergarten,Inconnu,,,OpenStreetMap
+5922389529,EPV la Mereci,5.344539,-4.0558004,school,Inconnu,,,OpenStreetMap
+5922542511,Jardin d'Enfants IKTUS,5.351445,-4.0747234,kindergarten,Inconnu,,,OpenStreetMap
+5922542513,Institut Supérieur Jean-Paul II,5.3517281,-4.0750399,school,Inconnu,,,OpenStreetMap
+5922578781,IMGH Formation Professionnelle,5.3461808,-4.0616027,college,Inconnu,,,OpenStreetMap
+5922578783,Collège Privée Oberon Sona 2,5.3416255,-4.0611488,school,Inconnu,,,OpenStreetMap
+5922578784,ESETP: Ecole Supérieure d'Enseignement Technique Et Professionnel,5.3416014,-4.0613385,college,Inconnu,,,OpenStreetMap
+5922580866,Groupe Scolaire Sicogi 5,5.3401446,-4.0599592,school,Inconnu,,,OpenStreetMap
+5922686411,Ecole maternelle Eben-Ezer,5.3426116,-4.0584411,kindergarten,Inconnu,,,OpenStreetMap
+5922686431,Cours Secondaire Bonne Semence Tago,5.3425895,-4.0593905,college,Inconnu,,,OpenStreetMap
+5922759828,EPV Sainte Grâce d'Avila,5.3537717,-4.0782116,school,Inconnu,,,OpenStreetMap
+5922759856,EPV Nanan Tanoh,5.3522502,-4.0779367,school,Inconnu,,,OpenStreetMap
+5922769908,College Gof,5.3467382,-4.0586255,school,Inconnu,,,OpenStreetMap
+5922770054,Institut Universitaire Technologique Eudistes d'Afrique,5.3441678,-4.0534991,college,Inconnu,,,OpenStreetMap
+5922770055,Ecole Supérieure De Management et Des Technologies,5.3433246,-4.0536962,college,Inconnu,,,OpenStreetMap
+5922770073,Le Rucher,5.3462188,-4.0539028,school,Inconnu,,,OpenStreetMap
+5922948027,Collègel les phalènes,5.3454978,-4.052738,school,Inconnu,,,OpenStreetMap
+5923686227,Ecole accademique des sciences technologiques et comptables,5.364007,-4.0019953,school,Inconnu,,,OpenStreetMap
+5923686228,Collège Santa Anna,5.3653556,-4.0015487,school,Inconnu,,,OpenStreetMap
+5923974720,Groupe Scolaire Sainte Famille,5.3511299,-4.0820164,school,Inconnu,,,OpenStreetMap
+5923974721,EPV Les Konadis,5.3512888,-4.0820217,school,Inconnu,,,OpenStreetMap
+5923974770,Groupe Scolaire Banco Attié,5.3490202,-4.0813606,school,Inconnu,,,OpenStreetMap
+5923974775,EPV Les Anges,5.3489948,-4.082526,school,Inconnu,,,OpenStreetMap
+5923975028,Groupe Scolaire Dale Carnegie,5.3508749,-4.0837652,school,Inconnu,,,OpenStreetMap
+5923975043,Ecole Yada Clément 2,5.3518109,-4.0820485,school,Inconnu,,,OpenStreetMap
+5923989673,Centre international de formation des cadres,5.3650338,-4.0012611,school,Inconnu,,,OpenStreetMap
+5923989678,Ecole maternelle et primaire Les Alizées,5.365178,-4.0022005,school,Inconnu,,,OpenStreetMap
+5924132579,Ecole supérieur estan yopougon,5.3479587,-4.0722484,college,Inconnu,,,OpenStreetMap
+5924132581,Yakou,5.3482351,-4.0724013,school,Inconnu,,,OpenStreetMap
+5924223926,Groupe scolaire etran,5.3509363,-4.0699819,school,Inconnu,,,OpenStreetMap
+5924223927,Ecole privé gloire divine,5.350941,-4.0701328,school,Inconnu,,,OpenStreetMap
+5924351397,Groupe scolaire bethanie,5.3467529,-4.0691726,school,Inconnu,,,OpenStreetMap
+5924384219,Institut national de formation judiciaire,5.3626491,-3.9992896,college,Inconnu,,,OpenStreetMap
+5924391652,Groupe Scolaire Sainte Ruth,5.3501472,-4.0566708,school,Inconnu,,,OpenStreetMap
+5924493832,Collège IPES,5.3547531,-4.0770348,school,Inconnu,,,OpenStreetMap
+5924500171,GSIA Groupe Scolaire International de l'amitié,5.3548967,-4.0646102,school,Inconnu,,,OpenStreetMap
+5924500175,GSIA: Enseignement Superieur et Sécondaire,5.3545321,-4.0645592,school,Inconnu,,,OpenStreetMap
+5924543224,Collège Privé Siata,5.3505758,-4.0691337,school,Inconnu,,,OpenStreetMap
+5924543228,Collège Moderne Amadou Hampaté Ba,5.3504529,-4.0679817,school,Inconnu,,,OpenStreetMap
+5924563434,École Islamique,5.3546196,-4.0626998,school,Inconnu,,,OpenStreetMap
+5924568000,Groupe Scolaire International de l'Amitié,5.3553173,-4.0649173,school,Inconnu,,,OpenStreetMap
+5924570322,Groupe scolaire mosquée,5.3516867,-4.0668927,school,Inconnu,,,OpenStreetMap
+5924582797,Cours secondaire les cultivés,5.351457,-4.0654336,school,Inconnu,,,OpenStreetMap
+5924582910,Gof Education Institute,5.3465353,-4.0591438,school,Inconnu,,,OpenStreetMap
+5924590090,Groupe Scolaire Méthodes,5.3466034,-4.0580696,school,Inconnu,,,OpenStreetMap
+5924606201,École Primaire Maternelle Divine Sagesse,5.3457955,-4.0590191,kindergarten,Inconnu,,,OpenStreetMap
+5924692848,"Groupe Misa lycée, BTS, DESS Master",5.3663517,-4.0136509,college,Inconnu,,,OpenStreetMap
+5924692855,Castle of Percy international group of school,5.3661047,-4.013844,college,Inconnu,,,OpenStreetMap
+5926441668,Jun Dojo de Mahikari Yopougon,5.3405786,-4.0804325,school,Inconnu,,,OpenStreetMap
+5926480396,Le Groupe Bowl,5.3585913,-4.0854201,college,Inconnu,,,OpenStreetMap
+5926480399,Institut Professionnel Des Métiers Du Sport,5.357658,-4.0849574,college,Inconnu,,,OpenStreetMap
+5926480436,EPV La Boussole,5.3534673,-4.0838922,school,Inconnu,,,OpenStreetMap
+5926480462,EPP Banco II,5.353261,-4.0799712,school,Inconnu,,,OpenStreetMap
+5926480472,Groupe Scolaire La Fine Fleur,5.3524418,-4.0819788,school,Inconnu,,,OpenStreetMap
+5927017395,Collège Privée Marcel Zadi Kessi,5.3381384,-4.084437,school,Inconnu,,,OpenStreetMap
+5927054730,Groupe Scolaire Etran 2,5.349834,-4.0666835,school,Inconnu,,,OpenStreetMap
+5927054733,Ecole Coranique,5.3505658,-4.0662852,school,Inconnu,,,OpenStreetMap
+5927073974,Ecole Coranique,5.350715,-4.0648163,school,Inconnu,,,OpenStreetMap
+5927110673,Ecole Coranique,5.3584391,-4.0726367,school,Inconnu,,,OpenStreetMap
+5927112825,Institut Ecole,5.3452427,-4.0844411,school,Inconnu,,,OpenStreetMap
+5927112845,Collège Ciel Pluriel,5.341285,-4.0843472,school,Inconnu,,,OpenStreetMap
+5927188760,Collège Privé Jules & Marcelle,5.3515559,-4.0712701,school,Inconnu,,,OpenStreetMap
+5927195135,Groupe scolaire St André,5.3432318,-4.0742192,school,Inconnu,,,OpenStreetMap
+5927195205,EPV Balla Keita,5.3461187,-4.078213,school,Inconnu,,,OpenStreetMap
+5927195217,EPV La Victoire II,5.344985,-4.0777436,school,Inconnu,,,OpenStreetMap
+5927195272,EPV La Victoire I,5.3444322,-4.0787789,school,Inconnu,,,OpenStreetMap
+5927445879,EPV Sepi,5.3541289,-4.0697975,school,Inconnu,,,OpenStreetMap
+5927449688,Groupe scolaire le Krazan,5.354428,-4.0704466,school,Inconnu,,,OpenStreetMap
+5928351266,EPV Le Jourdain de Beth Bara,5.3475414,-4.0814531,school,Inconnu,,,OpenStreetMap
+5928559718,Groupe Scolaire Confessionnelle,5.3433259,-4.0803567,school,Inconnu,,,OpenStreetMap
+5928559722,Collège Pénithology,5.3430435,-4.0808254,school,Inconnu,,,OpenStreetMap
+5928601157,Ecole Maternelle et Primaire Confessionelle,5.3504536,-4.0665613,school,Inconnu,,,OpenStreetMap
+5928676533,Groupe scolaire UNESCO,5.3492272,-4.0717274,school,Inconnu,,,OpenStreetMap
+5928676550,Enseignement Supérieur ESTAN,5.3479466,-4.0727258,school,Inconnu,,,OpenStreetMap
+5928685108,Institut Supérieure Des Technologies Et De Managment,5.3464044,-4.0686864,college,Inconnu,,,OpenStreetMap
+5928694841,Institut de Formation et de Renforcement des Capacités,5.3694214,-4.0906799,college,Inconnu,,,OpenStreetMap
+5928694869,Groupe Scolaire les Saints Anges,5.3713387,-4.0947059,school,Inconnu,,,OpenStreetMap
+5928726244,Garderie Simple Elégance,5.3801751,-4.0938395,kindergarten,Inconnu,,,OpenStreetMap
+5928813707,Groupe Ecole Sangban,5.3478378,-4.0650634,school,Inconnu,,,OpenStreetMap
+5928817796,Groupe Scolaire Boni,5.3485034,-4.0654604,school,Inconnu,,,OpenStreetMap
+5928818096,Collège Privé Michel,5.3474199,-4.0661652,school,Inconnu,,,OpenStreetMap
+5928818102,Collège Jean Baptiste,5.3482778,-4.0672655,school,Inconnu,,,OpenStreetMap
+5928841964,Garderie d'enfants Les Cherubins,5.3815904,-4.0959598,kindergarten,Inconnu,,,OpenStreetMap
+5928849068,Groupe scolaire MEVE ci,5.3730385,-4.009016,school,Inconnu,,,OpenStreetMap
+5928937383,Ecole,5.3725351,-4.0099628,school,Inconnu,,,OpenStreetMap
+5929090175,Ecole coranique,5.37412,-4.0087371,school,Inconnu,,,OpenStreetMap
+5929243530,Groupe scolaire Pourvoyeur,5.372941,-4.0067556,school,Inconnu,,,OpenStreetMap
+5929374976,Groupe Scolaire Djimigoué,5.3840726,-4.096051,school,Inconnu,,,OpenStreetMap
+5929376005,Groupe Scolaire Akandje,5.3821512,-4.0980127,school,Inconnu,,,OpenStreetMap
+5929376049,Groupe Scolaire PDG de l'avenir,5.3826559,-4.1011284,school,Inconnu,,,OpenStreetMap
+5929376051,Groupe Scolaire,5.3824703,-4.100592,school,Inconnu,,,OpenStreetMap
+5929376054,Groupe Scolaire Kakadjé,5.3821245,-4.0983564,school,Inconnu,,,OpenStreetMap
+5929376062,Ecole primaire musulmane,5.3808013,-4.097022,school,Inconnu,,,OpenStreetMap
+5931066121,Epp Dominique Ouattara Yopuogon,5.3857909,-4.0973438,school,Inconnu,,,OpenStreetMap
+5931066127,Collège privé Djabar,5.3853436,-4.0982544,school,Inconnu,,,OpenStreetMap
+5931188200,Groupe Scolaire Doriane 2,5.3899807,-4.0934131,school,Inconnu,,,OpenStreetMap
+5931188201,Groupe Scolaire Dorian,5.3896643,-4.0934949,school,Inconnu,,,OpenStreetMap
+5931189990,Ecole primaire Djabar,5.3865159,-4.0975142,school,Inconnu,,,OpenStreetMap
+5931196039,Enfant épanoui,5.3756441,-4.0032754,school,Inconnu,,,OpenStreetMap
+5931330332,Groupe Scolaire Fraternité,5.3747342,-4.004009,school,Inconnu,,,OpenStreetMap
+5931331749,Groupe Scolaire Grazia,5.3733015,-4.0764494,school,Inconnu,,,OpenStreetMap
+5931332621,Groupe Scolaire Helene Ouangnet,5.3683775,-4.0723113,school,Inconnu,,,OpenStreetMap
+5931332633,Ecole Primaire Nazaréen,5.3674225,-4.0728794,school,Inconnu,,,OpenStreetMap
+5931332638,Collège Minerva,5.3665703,-4.0734782,school,Inconnu,,,OpenStreetMap
+5931332665,Collège D. Baz,5.3634375,-4.0744666,school,Inconnu,,,OpenStreetMap
+5931332671,EPV La Résidence,5.3642888,-4.0752786,school,Inconnu,,,OpenStreetMap
+5931501378,Collège Alpha et Oméga,5.3750182,-4.0021968,school,Inconnu,,,OpenStreetMap
+5931591816,Groupe Scolaire Dobly,5.376498,-4.0054527,school,Inconnu,,,OpenStreetMap
+5931636114,École privée Calao,5.3458009,-4.0548778,school,Inconnu,,,OpenStreetMap
+5931636120,Groupe Scolaire ets edufor,5.3455552,-4.0566064,school,Inconnu,,,OpenStreetMap
+5931761560,École sans nom,5.3746955,-4.0070191,school,Inconnu,,,OpenStreetMap
+5931836938,Ecole primaire privée les batisseurs,5.3768418,-4.0069246,school,Inconnu,,,OpenStreetMap
+5932896381,Ecole maternelle epanoui,5.3745409,-4.0035263,kindergarten,Inconnu,,,OpenStreetMap
+5933925840,Groupe scolaire Ayewa,5.3434147,-4.0948842,school,Inconnu,,,OpenStreetMap
+5934038370,Groupe Scolaire la Colombe,5.3382779,-4.096503,school,Inconnu,,,OpenStreetMap
+5934038697,Ecole primaire la Bad,5.3361107,-4.0990162,school,Inconnu,,,OpenStreetMap
+5934039193,Ecole la Bagoué,5.3343321,-4.0982451,school,Inconnu,,,OpenStreetMap
+5934039241,Groupe Scolaire ets Akoi,5.3319633,-4.0970193,school,Inconnu,,,OpenStreetMap
+5934055215,Ecole Primaire Ovin,5.3688032,-4.0997256,school,Inconnu,,,OpenStreetMap
+5934055220,Collège Moderne Autoroute du Nord ( CMAN),5.3688425,-4.0996264,college,Inconnu,,,OpenStreetMap
+5934097449,Groupe Scolaire Akandji,5.3673518,-4.0992884,school,Inconnu,,,OpenStreetMap
+5934097450,Groupe Scolaire Gnakan,5.367484,-4.0991449,school,Inconnu,,,OpenStreetMap
+5934289349,Groupe Scolaire Saint Michèl de Kouadio,5.3738342,-4.0987507,school,Inconnu,,,OpenStreetMap
+5934290890,Collège Scolaire La Gloire,5.3697031,-4.0989478,school,Inconnu,,,OpenStreetMap
+5934412418,EPV le Flambeau,5.3368572,-4.0657997,school,private,,,OpenStreetMap
+5934412423,Groupe Scolaire Divine Grace,5.3361615,-4.0671274,school,Inconnu,,,OpenStreetMap
+5934459503,Epv Centrale,5.3656787,-4.0805787,school,Inconnu,,,OpenStreetMap
+5934481571,Institut de Formation d'Enseignement Supérieur,5.3403723,-4.0839382,college,Inconnu,,,OpenStreetMap
+5934490028,EPV marie cathy,5.3584204,-4.0958579,school,Inconnu,,,OpenStreetMap
+5934490644,Groupe Scolaire le pédagogue,5.3475821,-4.1015871,school,Inconnu,,,OpenStreetMap
+5934490649,ENSBTP,5.3489037,-4.1046321,college,Inconnu,,,OpenStreetMap
+5934490730,Ecole saint Elisabeth,5.3506292,-4.103002,school,Inconnu,,,OpenStreetMap
+5934609241,Groupe Scolaire Moise,5.3738035,-4.10036,school,Inconnu,,,OpenStreetMap
+5934609713,Groupe ScolaireCharles Daw,5.3687671,-4.1020203,school,Inconnu,,,OpenStreetMap
+5934642859,Grecos Afrique,5.340865,-4.1006597,college,Inconnu,,,OpenStreetMap
+5934642988,Ecole superieur Saint- Charnel,5.3387473,-4.1005853,college,Inconnu,,,OpenStreetMap
+5934643046,Ecole superieur d'industrie et amenegement,5.3346249,-4.1005789,college,Inconnu,,,OpenStreetMap
+5934702047,Ecole scolaire judée,5.3713227,-4.1091791,school,Inconnu,,,OpenStreetMap
+5934702064,Groupe Scolaire Akandji,5.3667356,-4.0996653,school,Inconnu,,,OpenStreetMap
+5934880371,Collège Nadjate,5.3446181,-4.1006362,school,Inconnu,,,OpenStreetMap
+5934881729,Gescom Afrique grande Ecole,5.3408376,-4.1006959,college,Inconnu,,,OpenStreetMap
+5934881795,Chandelier d'Or,5.3430599,-4.103641,school,Inconnu,,,OpenStreetMap
+5934881815,EPV La Colombe,5.3449316,-4.1018835,school,Inconnu,,,OpenStreetMap
+5934881866,Ecole Primaire Adjeleba,5.3447073,-4.1029,school,Inconnu,,,OpenStreetMap
+5936192496,Collège Saint Brice,5.3435556,-4.0818661,school,Inconnu,,,OpenStreetMap
+5936242648,Ecole Primaire Privée Baptiste,5.339465,-4.0817394,school,Inconnu,,,OpenStreetMap
+5936242649,Institut Théologique de la Grâce,5.3394683,-4.0817585,college,Inconnu,,,OpenStreetMap
+5936485478,Ecole Ivoirienne Pour les Sourds,5.3545155,-4.072117,school,Inconnu,,,OpenStreetMap
+5936496168,Groupe Scolaire ITSAT,5.3551557,-4.0735117,school,Inconnu,,,OpenStreetMap
+5936511312,Ecole Primaire,5.3552999,-4.0707873,school,Inconnu,,,OpenStreetMap
+5936536232,Epv Offoumou Yapo,5.3318725,-4.0522103,school,Inconnu,,,OpenStreetMap
+5936536244,École sans nom,5.3328252,-4.0532128,school,Inconnu,,,OpenStreetMap
+5936634524,Epv Saint Jean Eudes,5.3276936,-4.0556315,school,Inconnu,,,OpenStreetMap
+5936767713,EDAF ecole des affaires,5.3561458,-4.0995386,college,Inconnu,,,OpenStreetMap
+5936767762,Ecole Cegi,5.3550048,-4.1006416,school,Inconnu,,,OpenStreetMap
+5936768073,Groupe scolaire fleur de lotus,5.3494275,-4.10244,school,Inconnu,,,OpenStreetMap
+5936796462,Ecole Primaire,5.3586968,-4.0697359,school,Inconnu,,,OpenStreetMap
+5936816191,Collège Privé L'Eclosion II,5.3413544,-4.0954945,school,Inconnu,,,OpenStreetMap
+5936816192,Ecole Primaire et Maternelle,5.3416869,-4.0954717,school,Inconnu,,,OpenStreetMap
+5936962798,Groupe Scolaire Badiana,5.3363357,-4.0672736,school,Inconnu,,,OpenStreetMap
+5937021300,Prudence International School Abidjan Sicogi 7,5.3371736,-4.0718997,school,Inconnu,,,OpenStreetMap
+5937021319,Groupe Scolaire Sicogi 7,5.337444,-4.0722431,school,Inconnu,,,OpenStreetMap
+5937055449,Groupe la Grâce des Elus,5.3387506,-4.1117728,school,Inconnu,,,OpenStreetMap
+5937233874,Etablissement maternelle et primaire : la nouvelle Rosée,5.3652341,-4.0998262,school,Inconnu,,,OpenStreetMap
+5937240286,Groupe Scolaire Sainte Hélène1,5.3692124,-4.1062742,school,Inconnu,,,OpenStreetMap
+5937298407,Groupe Scolaire Ramat,5.3452614,-4.1142029,school,Inconnu,,,OpenStreetMap
+5937298526,EGTPS:Enseignement sécondaire technique et professionnel,5.3681062,-4.1039474,college,Inconnu,,,OpenStreetMap
+5937298528,Groupe Scolaire Sainte Hélène2,5.3683392,-4.1059396,school,Inconnu,,,OpenStreetMap
+5937298732,Epv Koro Lou,5.3513449,-4.1107676,school,Inconnu,,,OpenStreetMap
+5938606954,EPV marie cathy,5.3582842,-4.095937,school,Inconnu,,,OpenStreetMap
+5938923894,EPV Sahienin,5.3426142,-4.0976831,school,Inconnu,,,OpenStreetMap
+5938982316,Collége mamie adjoua,5.357909,-4.0938301,school,Inconnu,,,OpenStreetMap
+5938982364,Groupe scolaire nelson mandela,5.3495409,-4.0937202,school,Inconnu,,,OpenStreetMap
+5938982397,Institut de theologie c.e,5.3493914,-4.0947287,school,Inconnu,,,OpenStreetMap
+5938982700,Institut de formation azing ivoire,5.3483405,-4.0949593,school,Inconnu,,,OpenStreetMap
+5938982707,Collège privé mixte gucharolain,5.3497372,-4.0950277,school,Inconnu,,,OpenStreetMap
+5938996371,Goupe Scolaire Pigeons 2,5.3361054,-4.0635976,school,private,,,OpenStreetMap
+5939157184,Groupe Scolaire La Sorbone,5.3504663,-4.0985535,school,Inconnu,,,OpenStreetMap
+5939220836,Source de Vie,5.3530093,-4.0959089,school,Inconnu,,,OpenStreetMap
+5939248330,Souce de vie maternelle et primaire,5.3530453,-4.0958559,school,Inconnu,,,OpenStreetMap
+5949469735,Ecole d'architecture d'Abidjan,5.3465333,-4.0029703,college,Inconnu,,,OpenStreetMap
+5955714700,Groupe Scolaire Privé Sephora,5.2982266,-3.9545021,school,Privé,,,OpenStreetMap
+5956468217,College d'Enseignement Superieure,5.2862075,-3.9505935,college,Inconnu,,,OpenStreetMap
+5956468218,Groupe Scolaire BAD 8,5.2863651,-3.9503521,school,Inconnu,,,OpenStreetMap
+5957127822,Groupe Scolaire Yathey N'Guessan I & II,5.4372628,-4.0354224,school,Inconnu,,,OpenStreetMap
+5957424004,College Privé Arielle de Koumassi,5.2980096,-3.9528941,school,Inconnu,,,OpenStreetMap
+5957560223,Groupe scolaire La montagne d'Ephraim,5.4432111,-4.0610378,school,Inconnu,,,OpenStreetMap
+5957560224,Groupe scolaire Henry Joel,5.4394723,-4.0618354,school,Inconnu,,,OpenStreetMap
+5957560273,Groupe scolaire la bonne semence,5.44281,-4.0646236,school,Inconnu,,,OpenStreetMap
+5957560794,EPC Sabil Nadjah,5.4407847,-4.0655261,school,Inconnu,,,OpenStreetMap
+5957560816,Ecole primaire privé Le leader,5.4425236,-4.0689077,school,Inconnu,,,OpenStreetMap
+5957579913,Ecole Confession Islamique,5.2821605,-3.9484806,school,Inconnu,,,OpenStreetMap
+5957653292,EPV Saint Georges,5.4428119,-4.0588172,school,Inconnu,,,OpenStreetMap
+5957761510,Centre de Perfectionnement aux Métiers du Batiment,5.2869446,-3.9522859,school,Inconnu,,,OpenStreetMap
+5957781498,Groupe Scolaire Sainte Brigitte 4,5.4380718,-4.0561196,school,Inconnu,,,OpenStreetMap
+5957781500,Ecole Coranique,5.4379797,-4.0569551,school,Inconnu,,,OpenStreetMap
+5958161566,Groupe Scolaire l'Herbon,5.2970769,-3.9540824,school,Inconnu,,,OpenStreetMap
+5958270785,Collège Coulibaly Sandeni,5.4429915,-4.0513574,school,Inconnu,,,OpenStreetMap
+5958270810,Groupe Scolaire Inch'Allah,5.4423116,-4.0529432,school,Inconnu,,,OpenStreetMap
+5958412798,EPV Coulibaly Sandeni,5.4413808,-4.0513547,school,Inconnu,,,OpenStreetMap
+5958423909,Groupe Scolaire Inch-alla,5.4422833,-4.0529151,school,Inconnu,,,OpenStreetMap
+5958423914,Collège Coulibaly Sandeni,5.4429695,-4.05136,school,Inconnu,,,OpenStreetMap
+5958423959,Groupe Scolaire Les Lys Du Pré,5.4397667,-4.0499036,school,Inconnu,,,OpenStreetMap
+5958424086,EPV Coulibaly sandeni,5.4414182,-4.0513252,school,Inconnu,,,OpenStreetMap
+5958424153,Collège Chemin de Gloire,5.4363556,-4.0493263,school,Inconnu,,,OpenStreetMap
+5958424157,EPV Groupe Scolaire Le Jourdain,5.4359798,-4.0496877,school,Inconnu,,,OpenStreetMap
+5958424168,EPP Anonkoua Kouté 3 & 4,5.4344137,-4.0474618,school,Inconnu,,,OpenStreetMap
+5959442325,Groupe Scolaire Le Batelor,5.4337702,-4.0580803,school,Inconnu,,,OpenStreetMap
+5960066964,Collège Koné Famoussa,5.4434715,-4.0586349,school,Inconnu,,,OpenStreetMap
+5960161504,Groupe Scolaire Le Paradis Des Touts Petits,5.4306181,-4.0585873,school,Inconnu,,,OpenStreetMap
+5960161516,Groupe Scolaire El Olham,5.4287309,-4.0610435,school,Inconnu,,,OpenStreetMap
+5960161518,Groupe Scolaire Des Assemblées De Dieu Et Olan,5.4288998,-4.0610991,school,Inconnu,,,OpenStreetMap
+5960161710,Collège,5.4332789,-4.0616342,school,Inconnu,,,OpenStreetMap
+5960161711,EPV Divine Providence,5.4332829,-4.0613754,school,Inconnu,,,OpenStreetMap
+5960173775,Groupe Scolaire Le Point,5.4281749,-4.0569444,school,Inconnu,,,OpenStreetMap
+5960202667,Groupe Scolaire Saint CYR,5.2985992,-3.9503199,school,Inconnu,,,OpenStreetMap
+5960263869,Ecole des Spécialités du Bois Ghandour,5.2904086,-3.9504835,school,Inconnu,,,OpenStreetMap
+5960952243,Groupe Scolaire Habianor,5.4293441,-4.0649357,school,Inconnu,,,OpenStreetMap
+5960952269,EPV Rahim,5.4275914,-4.0652224,school,Inconnu,,,OpenStreetMap
+5961009147,EPV Saint Roger Boli,5.4356447,-4.0385384,school,Inconnu,,,OpenStreetMap
+5961250975,Groupe scolaire Saint Mathieu,5.4326074,-4.0350589,school,Inconnu,,,OpenStreetMap
+5961343240,EPV L'Eveil,5.4317836,-4.0336052,school,Inconnu,,,OpenStreetMap
+5961343266,Groupe Scolaire Gedeon,5.4300226,-4.0329199,school,Inconnu,,,OpenStreetMap
+5961343280,EPV Saint Pierre,5.4294846,-4.0346566,school,Inconnu,,,OpenStreetMap
+5961344935,Epv Le Chandelier D'Or,5.4327532,-4.0376999,kindergarten,Inconnu,,,OpenStreetMap
+5961344945,Groupe Scolaire Tezed,5.4334004,-4.0375587,school,Inconnu,,,OpenStreetMap
+5961414398,Groupe Scolaire Peniel Abobo 3,5.4342548,-4.0378095,school,Inconnu,,,OpenStreetMap
+5961516540,EPV Saint Pierre,5.4277977,-4.0398956,school,Inconnu,,,OpenStreetMap
+5961516557,EPV Alimis,5.4275097,-4.0392274,school,Inconnu,,,OpenStreetMap
+5961516579,Groupe Scolaire Sainte Nathanaelle,5.4300814,-4.0402047,kindergarten,Inconnu,,,OpenStreetMap
+5961516587,Groupe Scolaire Jean Baptiste Abounan,5.4317035,-4.0413018,school,Inconnu,,,OpenStreetMap
+5961524600,Ecole primaire Dosso Mawa,5.4271555,-4.032077,school,Inconnu,,,OpenStreetMap
+5961524627,Ecole primaire privée,5.4283211,-4.0324283,school,Inconnu,,,OpenStreetMap
+5961524631,EPV Schebania,5.4284819,-4.0331861,school,Inconnu,,,OpenStreetMap
+5961594904,EPV Dembele,5.431287,-4.0293995,school,Inconnu,,,OpenStreetMap
+5961721372,Collège Les falaises,5.4294405,-4.0266857,school,Inconnu,,,OpenStreetMap
+5961729502,EPV Les enfants de Dion,5.4298184,-4.0285572,school,Inconnu,,,OpenStreetMap
+5961737510,Groupe Scolaire Saint Kisito,5.4248011,-4.0519407,school,Inconnu,,,OpenStreetMap
+5961737539,Groupe Scolaire Les Fleurons,5.4274606,-4.049453,school,Inconnu,,,OpenStreetMap
+5961883302,Ecole primaire BAD,5.4275998,-4.0236937,school,Inconnu,,,OpenStreetMap
+5961953229,Groupe Scolaire La Source Du Savoir,5.4210254,-4.0455557,school,Inconnu,,,OpenStreetMap
+5962059921,EPV Mahama Ouattara & Fils,5.4220147,-4.0488683,school,Inconnu,,,OpenStreetMap
+5962059930,Groupe Scolaire La Bonne Graine,5.422227,-4.048008,school,Inconnu,,,OpenStreetMap
+5962059946,EPP Du Village d'Anonkoua Extension,5.427749,-4.051128,school,Inconnu,,,OpenStreetMap
+5962889898,EPV Katcheneta,5.4238859,-4.0559768,school,Inconnu,,,OpenStreetMap
+5962964134,EPV Peniel Abobo Vallon,5.427484,-4.0386598,school,Inconnu,,,OpenStreetMap
+5963773886,Ecole Coranique,5.2972451,-3.967427,school,Inconnu,,,OpenStreetMap
+5963809706,Collège Djessou,5.4489425,-4.051877,school,Inconnu,,,OpenStreetMap
+5963980311,Ecole Confessionnelle Islamique,5.3011678,-3.9634808,school,Inconnu,,,OpenStreetMap
+5964013021,Groupe Scolaire Le Progrès,5.4347769,-4.0814678,school,Inconnu,,,OpenStreetMap
+5964013044,Groupe Scolaire Traoré Que Fadel,5.433857,-4.0764011,school,Inconnu,,,OpenStreetMap
+5964014865,EPV Notre Dame Des Secours,5.426731,-4.0267186,school,Inconnu,,,OpenStreetMap
+5964022928,Ecole Primaire Privée Renaissance,5.3001823,-3.9635834,school,Inconnu,,,OpenStreetMap
+5964045974,EPV Ayévô,5.4261255,-4.0243616,school,Inconnu,,,OpenStreetMap
+5964083795,Collège Colombié,5.4331534,-4.0313239,school,Inconnu,,,OpenStreetMap
+5964083796,Ecole primaire Colombié,5.4329311,-4.0310648,school,Inconnu,,,OpenStreetMap
+5964123380,Collège El Gibbor,5.4395685,-4.0749434,school,Inconnu,,,OpenStreetMap
+5964128453,Groupe scolaire Sainte Thérese,5.3000902,-3.9479569,school,Inconnu,,,OpenStreetMap
+5964131964,Groupe Scolaire Baptiste Emmanuel,5.4255598,-4.0263806,school,Inconnu,,,OpenStreetMap
+5964131975,Ecole islamique chamsou al hidayat,5.4250297,-4.0248102,school,Inconnu,,,OpenStreetMap
+5964146475,Ecole Coranique,5.4494144,-4.0541898,school,Inconnu,,,OpenStreetMap
+5964153215,EPV Amani,5.4496921,-4.0627903,school,Inconnu,,,OpenStreetMap
+5964153261,EPV Les Saints Anges,5.449624,-4.0560445,school,Inconnu,,,OpenStreetMap
+5964153303,Groupe Scolaire Batipka Sion,5.4514651,-4.059514,school,Inconnu,,,OpenStreetMap
+5964153309,Groupe Scolaire Selodesir,5.4519891,-4.0605144,school,Inconnu,,,OpenStreetMap
+5964153333,EPV Saint Seraphin,5.4534876,-4.0632402,school,Inconnu,,,OpenStreetMap
+5964153353,Groupe Scolaire Anyama PK 18,5.4554902,-4.0627769,school,Inconnu,,,OpenStreetMap
+5964153488,Groupe Scolaire Le Peletier,5.4540497,-4.0598023,school,Inconnu,,,OpenStreetMap
+5964211247,EcoleFranco-Arabe,5.4485774,-4.0534595,school,Inconnu,,,OpenStreetMap
+5964219448,Collège privé les cocinelles,5.4255327,-4.0231995,school,Inconnu,,,OpenStreetMap
+5964272741,EPV Diamory,5.4228071,-4.0240578,school,Inconnu,,,OpenStreetMap
+5964272748,Collège CESAM,5.4232651,-4.0247465,school,Inconnu,,,OpenStreetMap
+5964272750,EPV La ronde des enfants,5.423727,-4.0249088,school,Inconnu,,,OpenStreetMap
+5964304371,GROUPE SCOLAIRE PRODOMO-SELMER,5.3044915,-3.9472434,school,Inconnu,,,OpenStreetMap
+5964319408,Ecole Coranique,5.4478938,-4.0528591,school,Inconnu,,,OpenStreetMap
+5964319429,EPV Saint Ban des Petits Princes,5.4457237,-4.0521265,school,Inconnu,,,OpenStreetMap
+5964319440,EPV Protestante Evangélique CMaA,5.4450799,-4.0531833,school,Inconnu,,,OpenStreetMap
+5964319468,Groupe Scolaire Womagnon,5.4444901,-4.0543111,school,Inconnu,,,OpenStreetMap
+5964358613,EPV Le Provincial,5.4476161,-4.0555852,school,Inconnu,,,OpenStreetMap
+5964359678,EPV Rahim Annexe,5.4284375,-4.0797985,school,Inconnu,,,OpenStreetMap
+5964467828,EPV Feblezzi,5.4454393,-4.0550803,school,Inconnu,,,OpenStreetMap
+5964483989,Groupe Scolaire Sainte Marie MOISAN,5.3018695,-3.9549524,school,Inconnu,,,OpenStreetMap
+5964487265,Les Institutions de Formation et d’Education Féminine,5.2962149,-3.9559995,school,Ministère de la Promotion de le Femme de le Famille et de la Protection des Enfants,,,OpenStreetMap
+5964537083,EPV Dialogue,5.3022193,-3.9559301,school,Inconnu,,,OpenStreetMap
+5964557483,Ecole Franco_Arabe,5.2971216,-3.9591162,school,Inconnu,,,OpenStreetMap
+5964557588,Groupe Scolaire ILA,5.2958704,-3.9589217,school,Inconnu,,,OpenStreetMap
+5964571178,EPV Saint Jacques,5.3006011,-3.9574137,school,Inconnu,,,OpenStreetMap
+5964640505,Institut d'Enseignement Secondaire Technique Sainte Brigitte II,5.449313,-4.058716,college,Inconnu,,,OpenStreetMap
+5964640514,Groupe Scolaire Koffi Ago,5.4479366,-4.0596876,school,Inconnu,,,OpenStreetMap
+5964640530,Groupe Scolaire Léopol Sédard Senghor,5.4477857,-4.0603635,school,Inconnu,,,OpenStreetMap
+5964640577,Groupe Scolaire Sibata,5.446195,-4.0582205,school,Inconnu,,,OpenStreetMap
+5964662284,Collège les falaises,5.4291829,-4.0267146,school,Inconnu,,,OpenStreetMap
+5964685253,Groupe Scolaire Saint Bernard,5.4507121,-4.0640321,school,Inconnu,,,OpenStreetMap
+5964721167,Ecole Privée Union Force,5.2988015,-3.9590853,school,Inconnu,,,OpenStreetMap
+5964736897,Groupe Scolaire Michel Baldinau,5.4466189,-4.0630129,school,Inconnu,,,OpenStreetMap
+5964741098,COLLEGE SAINTE ALBERTINE,5.3005283,-3.9578184,college,Inconnu,,,OpenStreetMap
+5964765087,École sans nom,5.3013982,-3.9549309,school,Inconnu,,,OpenStreetMap
+5964768041,Groupe Scolaire La Competence,5.4478104,-4.0774003,school,Inconnu,,,OpenStreetMap
+5964790497,GROUPE SCOLAIRE BAD 6,5.29658,-3.958198,school,Inconnu,,,OpenStreetMap
+5965102343,Ecole Confessionnelle Islamique Sabil-Houda,5.3008526,-3.9591591,school,Inconnu,,,OpenStreetMap
+5965102546,Ecole Primaire Baradji,5.2977005,-3.9591289,school,Inconnu,,,OpenStreetMap
+5965462341,Farlyrise International School,5.2822773,-3.9503682,college,Inconnu,,,OpenStreetMap
+5966100662,Groupe Scolaire Rehoboth,5.3029325,-3.9491753,school,Inconnu,,,OpenStreetMap
+5966151657,Groupe Scolaire Quartier B Divo,5.3035528,-3.9531007,school,Inconnu,,,OpenStreetMap
+5966151669,Maternelle St Benoit,5.3040882,-3.9533126,school,Inconnu,,,OpenStreetMap
+5966188301,Groupe scolaire LA COLOMBE,5.3009455,-3.9480836,school,Inconnu,,,OpenStreetMap
+5966277984,École sans nom,5.4315059,-4.0828157,school,Inconnu,,,OpenStreetMap
+5966374055,Progressive Internationnal Model School,5.4427072,-4.0786126,school,Inconnu,,,OpenStreetMap
+5966374076,Groupe Scolaire Mindeba,5.4404636,-4.0762268,school,Inconnu,,,OpenStreetMap
+5966468449,Groupe Scolaire Grace Janine,5.4434982,-4.0795004,school,Inconnu,,,OpenStreetMap
+5966474702,EPP Agoueto Municipalité 1,5.4461489,-4.0661591,school,Inconnu,,,OpenStreetMap
+5966474721,Ecole Primaire Confessionnelle Assemblée de Dieu,5.4527454,-4.0686536,school,Inconnu,,,OpenStreetMap
+5966476391,Collège Privé Sainte Elisabelle,5.4449103,-4.0635289,school,Inconnu,,,OpenStreetMap
+5966476406,Collège Beau Valentin,5.447506,-4.0675686,school,Inconnu,,,OpenStreetMap
+5966514786,EPP Agoueto BAD A & B,5.4455321,-4.061653,school,Inconnu,,,OpenStreetMap
+5966540237,École sans nom,5.4492302,-4.0759841,school,Inconnu,,,OpenStreetMap
+5966540252,Groupe Scolaire Touré Kavaly,5.44858,-4.0743895,school,Inconnu,,,OpenStreetMap
+5966564158,Groupe Scolaire Djiguya De Ouamelhoro,5.453987,-4.0775451,school,Inconnu,,,OpenStreetMap
+5966595397,Ecole Confessionnelle Coranique,5.4559855,-4.0688454,school,Inconnu,,,OpenStreetMap
+5966972486,Groupe Scolaire la Paix,5.298262,-3.9632267,school,Inconnu,,,OpenStreetMap
+5966972511,EPV Remblais,5.2991581,-3.9634681,school,Inconnu,,,OpenStreetMap
+5967078095,EPV Saint André d'Abobo PK 18,5.4462611,-4.0569766,school,Inconnu,,,OpenStreetMap
+5967078099,EPV Nakie,5.4466002,-4.0574084,school,Inconnu,,,OpenStreetMap
+5967078113,EPP Agoueto A1,5.449835,-4.057277,school,Inconnu,,,OpenStreetMap
+5967097894,EPV Le Social,5.4460087,-4.0644258,school,Inconnu,,,OpenStreetMap
+5967097895,Groupe Scolaire Saint Bernard,5.4506981,-4.0637951,school,Inconnu,,,OpenStreetMap
+5967110434,Ecole CoraniqueAboudramane Traoré,5.4516199,-4.0500753,school,Inconnu,,,OpenStreetMap
+5967110648,Ecole Coranique,5.4511764,-4.0532859,school,Inconnu,,,OpenStreetMap
+5967133276,Groupe Scolaire Michel Vako,5.451945,-4.0750151,school,Inconnu,,,OpenStreetMap
+5967134887,EPV Sanata Sogoba,5.449317,-4.0563939,school,Inconnu,,,OpenStreetMap
+5967135310,Ecole Islamique Nour El Houdah,5.447008,-4.0735842,school,Inconnu,,,OpenStreetMap
+5967163438,Groupe Scolaire Notre Dame De Lourdes,5.453501,-4.0490145,school,Inconnu,,,OpenStreetMap
+5967163446,Ecole Confessionnelle Islamique Markaz Hassane Basryou,5.4531512,-4.0496226,school,Inconnu,,,OpenStreetMap
+5967677392,Ecole Confessionnelle Islamique,5.4455582,-4.049911,school,Inconnu,,,OpenStreetMap
+5967677423,Ecole Karim Fofana,5.454047,-4.0549193,school,Inconnu,,,OpenStreetMap
+5967701212,Groupe Scolaire Buthmann,5.4609211,-4.0541013,school,Inconnu,,,OpenStreetMap
+5967751256,Etablissement Confessionelle Islamique Sabil Nadjaye,5.453537,-4.0542126,school,Inconnu,,,OpenStreetMap
+5967751272,Groupe Scolaire Bad A et B Agouto 2,5.4540217,-4.0539591,school,Inconnu,,,OpenStreetMap
+5967751400,Garderie Notre Dame De La Tendresse,5.4551992,-4.0525737,kindergarten,Inconnu,,,OpenStreetMap
+5967751449,College Privée Noussira,5.4545357,-4.0518066,school,Inconnu,,,OpenStreetMap
+5967751590,College Les Palmarès D'Abobo,5.454278,-4.0506814,school,Inconnu,,,OpenStreetMap
+5968504311,EPV Kyta,5.4607001,-4.0463416,school,Inconnu,,,OpenStreetMap
+5968505489,Groupe Scolaire La Victoire Divine,5.4562552,-4.0458776,school,Inconnu,,,OpenStreetMap
+5968505493,Ecole Primaire Catholique Bienheureux Louis Palazzolo,5.4577998,-4.0438083,school,Inconnu,,,OpenStreetMap
+5968573379,EPV Le soleil,5.4444975,-4.0482286,school,Inconnu,,,OpenStreetMap
+5968790186,Groupe Scolaire Excellence LSGD Abobo,5.4548974,-4.0466642,school,Inconnu,,,OpenStreetMap
+5968822631,Ecole primaire Le potentiel,5.4526579,-4.0466467,school,Inconnu,,,OpenStreetMap
+5968822655,Ecole Maternelle Méthodiste,5.4519864,-4.0408203,kindergarten,Inconnu,,,OpenStreetMap
+5968854011,Groupe Scolaire Le Caiman,5.4301441,-4.0319804,school,Inconnu,,,OpenStreetMap
+5968854016,EPV Saint Denis,5.4312522,-4.0321786,school,Inconnu,,,OpenStreetMap
+5968912639,Groupe Scolaire Le Caiman,5.4300974,-4.0319073,school,Inconnu,,,OpenStreetMap
+5968912887,EPV La Sainte Colombe,5.440292,-4.0548979,school,Inconnu,,,OpenStreetMap
+5968912894,EPV La Mediane,5.4408635,-4.05458,school,Inconnu,,,OpenStreetMap
+5968928944,Ecole,5.4264122,-4.0250268,school,Inconnu,,,OpenStreetMap
+5969134030,College Privé Jean Lacour,5.4380478,-4.0832233,school,Inconnu,,,OpenStreetMap
+5970044240,Groupe Scolaire Anne Esther,5.4363649,-4.0803044,school,Inconnu,,,OpenStreetMap
+5970044400,Groupe Afoper Alphabetisation,5.4389503,-4.0777764,school,Inconnu,,,OpenStreetMap
+5970062763,EPV Risma,5.4422292,-4.0569035,school,Inconnu,,,OpenStreetMap
+5970170507,Ecole Salem,5.441802,-4.0466528,school,Inconnu,,,OpenStreetMap
+5970172447,EPV Colatier,5.4593604,-4.0508786,school,Inconnu,,,OpenStreetMap
+5970172525,Etablissement Confessionelle Islamique GMD,5.4572477,-4.0503978,school,Inconnu,,,OpenStreetMap
+5970172698,Groupe Scolaire Saint Barthélémy,5.4566757,-4.0536453,school,Inconnu,,,OpenStreetMap
+5972443346,Ecole Coranique,5.4378662,-4.0552144,school,Inconnu,,,OpenStreetMap
+5972443356,EPV Eden,5.4377901,-4.0570289,school,Inconnu,,,OpenStreetMap
+5972443360,Groupe Scolaire Agnissankoi,5.4388291,-4.0575016,school,Inconnu,,,OpenStreetMap
+5972443361,Groupe Scolaire Assomin Bad,5.4384683,-4.0573481,school,Inconnu,,,OpenStreetMap
+5972443367,EPV Béoumi I,5.4392573,-4.0568961,school,Inconnu,,,OpenStreetMap
+5972603625,EPV Charles Le Bon,5.4558426,-4.042962,school,Inconnu,,,OpenStreetMap
+5972603645,EPV Koné Mariam,5.4567571,-4.0503073,school,Inconnu,,,OpenStreetMap
+5972680541,Groupe Scolaire Résidence Concorde,5.4491942,-4.0476103,school,Inconnu,,,OpenStreetMap
+5972680562,Collège Fousseni Koné,5.4524997,-4.0474722,school,Inconnu,,,OpenStreetMap
+5972680581,Groupe Scolaire Tchourabou,5.4544582,-4.0450957,school,Inconnu,,,OpenStreetMap
+5972680992,Ecole Confessionnelle Islamique Groupe Scolaire Al Faridaws,5.4551044,-4.0421527,school,Inconnu,,,OpenStreetMap
+5972736680,Collège Privé Gesma Abobo,5.4395884,-4.0399258,school,Inconnu,,,OpenStreetMap
+5973322948,Groupe Scolaire Espoir,5.4299472,-4.0264812,school,Inconnu,,,OpenStreetMap
+5973333746,Ecole Confessionnelle Coranique Salif,5.4229106,-4.0264946,school,Inconnu,,,OpenStreetMap
+5973333757,EPV Le Progrès,5.4230488,-4.0251394,school,Inconnu,,,OpenStreetMap
+5974251470,Collège Jules Valles,5.2910363,-3.9554147,school,Inconnu,,,OpenStreetMap
+5974251471,Groupe Scolaire les Enfants de Toutes Grâces,5.2917681,-3.9558519,school,Inconnu,,,OpenStreetMap
+5974714194,Groupe Scolaire Missionnaire de Koumassi Centre,5.2891694,-3.9559378,school,Inconnu,,,OpenStreetMap
+5974714195,Ecole Coranique,5.2885404,-3.9561389,school,Inconnu,,,OpenStreetMap
+5974740203,Ecole Coranique,5.4316881,-4.0331277,school,Inconnu,,,OpenStreetMap
+6008049572,Institut des Technologies d'Abidjan - Deux-Plateaux,5.3571332,-4.0022381,college,Inconnu,,,OpenStreetMap
+6026615285,Boc des enseignants 48 logements,5.2855317,-3.9593607,college,Inconnu,,,OpenStreetMap
+6031036962,Groupe Scolaire Agbékoi,5.42921,-4.0103846,school,Inconnu,,,OpenStreetMap
+6040189020,Groupe scolaire Les petits savants,5.3106009,-4.1113692,school,Inconnu,,,OpenStreetMap
+6041879400,Bloc des enseignants 48 logements,5.2854791,-3.9592128,college,Orange,,,OpenStreetMap
+6054595368,"Ecole Primaire"" La Réussite""",5.3040655,-3.957063,school,Inconnu,,,OpenStreetMap
+6085774613,Collège Henri Cartan,5.3691539,-3.9291145,school,Inconnu,,,OpenStreetMap
+6085778079,Grouoe scolaire Albert Ley,5.3694066,-3.9294464,school,Inconnu,,,OpenStreetMap
+6092661846,College Adventise d'Abidjan(tel 21262436,5.3098129,-3.9957055,college,Inconnu,,,OpenStreetMap
+6092903448,Groupe Scolaire Newton,5.3448795,-4.0680273,school,Inconnu,,,OpenStreetMap
+6118608886,Groupe Escoget,5.3774065,-3.9541999,school,Inconnu,,,OpenStreetMap
+6118790845,Collège IRFT Rehoboth,5.3660366,-3.9497667,school,Inconnu,,,OpenStreetMap
+6153163279,Petit séminaire de Bingervile,5.3571018,-3.8850376,college,Inconnu,,,OpenStreetMap
+6153163282,Ecole Saint Augustin de Bingerville,5.3576092,-3.8861474,school,Inconnu,,,OpenStreetMap
+6198524002,Etep,5.3272376,-4.0261379,college,Inconnu,,,OpenStreetMap
+6200700418,École sans nom,5.3101374,-4.0088135,school,Inconnu,,,OpenStreetMap
+6203966981,École Les chérubins,5.3668899,-3.9612727,school,Inconnu,,,OpenStreetMap
+6208029056,Groupe scolaire Thomas Edison,5.3728616,-3.9631856,school,Inconnu,,,OpenStreetMap
+6210500416,EPV Savoir plus,5.3086243,-4.0457605,school,Inconnu,,,OpenStreetMap
+6210675001,Collège Moderne du Plateau,5.3226655,-4.0211919,school,Inconnu,,,OpenStreetMap
+6225655811,Groupe scolaire Mathe Messan,5.24512,-3.8856414,school,Inconnu,,,OpenStreetMap
+6225672084,Collège Abraham,5.2488612,-3.8851991,school,Inconnu,,,OpenStreetMap
+6281030722,École primaire public Sagbé,5.4205124,-4.0306545,school,Inconnu,,,OpenStreetMap
+6281037421,Collège Petit Champion,5.4178408,-4.0335562,college,Inconnu,,,OpenStreetMap
+6317823209,Institut scolaire Voguy,5.3163152,-4.0654341,school,Inconnu,,,OpenStreetMap
+6321508387,Epp Konan Kanga Berthe,5.3074762,-4.0009999,school,Inconnu,,,OpenStreetMap
+6321520385,Epp Diasso,5.3066434,-4.0016409,school,Inconnu,,,OpenStreetMap
+6321520485,Epp Nanou Aka,5.3067931,-4.0013216,school,Inconnu,,,OpenStreetMap
+6321520585,Epp Yacé Philippe,5.306152,-4.0015883,school,Inconnu,,,OpenStreetMap
+6321525886,Epp Yobou Clément,5.3065277,-4.0005316,school,Inconnu,,,OpenStreetMap
+6321572985,Epp Lagune,5.3075565,-4.0018383,school,Inconnu,,,OpenStreetMap
+6321577085,Epp Régionale,5.3068666,-4.0009911,school,Inconnu,,,OpenStreetMap
+6321594785,Epp Akpa Niagne,5.3065504,-3.9990617,school,Inconnu,,,OpenStreetMap
+6331023241,GS Kofi Houra,5.3212293,-4.1427952,school,Inconnu,,,OpenStreetMap
+6331024482,GS Niangon Adjamé,5.337428,-4.1142919,school,Inconnu,,,OpenStreetMap
+6336097185,Epp Konan Kouassi Jacques,5.3060851,-4.0003156,school,Inconnu,,,OpenStreetMap
+6336097187,Epp Delair,5.3063057,-3.9996991,school,Inconnu,,,OpenStreetMap
+6336097188,Epp Koné Amara,5.3062887,-3.9998689,school,Inconnu,,,OpenStreetMap
+6336109686,Epp Raquain,5.3058273,-4.0012459,school,Inconnu,,,OpenStreetMap
+6382205962,Externat Saint François Xavier,5.4367828,-4.0142584,school,Paroisse Saint François Xavier,,,OpenStreetMap
+6388840053,École maternelle Les quatre fleuves d'Éden,5.3150562,-4.103233,kindergarten,Inconnu,,,OpenStreetMap
+6388840054,Collège privé Divine fontaine,5.3114206,-4.1080136,school,Inconnu,,,OpenStreetMap
+6388841121,GS La renaissance,5.313078,-4.1064818,school,Inconnu,,,OpenStreetMap
+6388841359,GS Le roi messie,5.318287,-4.1061051,school,Inconnu,,,OpenStreetMap
+6431315065,École maternelle Tibe Raymond,5.3660356,-4.1031437,school,Inconnu,,,OpenStreetMap
+6436741859,Groupe scolaire Mohy Jean 2,5.3653877,-4.1058224,school,Inconnu,,,OpenStreetMap
+6455479049,École primaire privée baptiste,5.3176946,-4.11396,school,Inconnu,,,OpenStreetMap
+6480223318,Institut de formation sainte marie de marahoue,5.4422205,-4.0473798,school,Inconnu,,,OpenStreetMap
+6516194046,EPV Kouamé NʼDri,5.3147504,-4.1055235,school,Inconnu,,,OpenStreetMap
+6576020320,College Jules Ronsard 2,5.2603468,-3.9804453,school,Inconnu,,,OpenStreetMap
+6576020480,Alt Istea academie,5.3202319,-4.0489289,school,Inconnu,,,OpenStreetMap
+6576035725,Epp bad port-bouet 2,5.3492011,-4.0965451,school,Inconnu,,,OpenStreetMap
+6576037320,Azing ivoire,5.3471201,-4.095139,school,Inconnu,,,OpenStreetMap
+6583222724,École primaire Elsa Clairon,5.4546205,-4.0830211,school,Inconnu,,,OpenStreetMap
+6583235671,Groupe scolaire Les majors,5.4602354,-4.0716674,school,Inconnu,,,OpenStreetMap
+6587381443,Institut Supérieur de Technologie Dubass (IST DUBASS),5.3807147,-3.9410457,college,Inconnu,,,OpenStreetMap
+6596600867,École secondaire,5.3215252,-3.8717446,school,Inconnu,,,OpenStreetMap
+6605066663,Haute Études Commerciales,5.3696287,-3.954374,college,Inconnu,,,OpenStreetMap
+6605069727,Groupe scolaire La palmeraie,5.3675441,-3.9509043,school,Inconnu,,,OpenStreetMap
+6627290025,EPP Bad,5.3153099,-4.0430248,school,Inconnu,,,OpenStreetMap
+6629625802,Enic Formation,5.3324881,-4.0909964,school,Inconnu,,,OpenStreetMap
+6629657712,Institution de formation et d’éducation féminine,5.3317564,-4.0704292,school,Inconnu,,,OpenStreetMap
+6631713171,Croix rouge côte d'Ivoire (centre Juan Carlos): école de secourisme,5.3489988,-4.0198146,school,Inconnu,,,OpenStreetMap
+6631801898,Les Institutions de Formation et d’Education Féminine Attécoubé,5.3476849,-4.0358837,school,Inconnu,,,OpenStreetMap
+6631805688,Complexe socio-éducatif Adjamé 220 logements,5.349093,-4.0168529,school,Inconnu,,,OpenStreetMap
+6631823737,Institut de Formation Louis le Grand,5.3406588,-4.0680253,school,Inconnu,,,OpenStreetMap
+6631823739,"Institut de Management, de Gestion et d'Hôtellerie",5.3465219,-4.0616047,school,Inconnu,,,OpenStreetMap
+6631846251,Notre Dame De La Paix Abobo-Doumé,5.3166312,-4.0366763,school,Inconnu,,,OpenStreetMap
+6631869333,Centre Ivoire Couture,5.3612244,-4.0666392,school,Inconnu,,,OpenStreetMap
+6631870530,Centre d'Alphabétisation de Eglise Universelle du Royaume de Dieu de Toit Rouge,5.3342026,-4.0553847,school,Inconnu,,,OpenStreetMap
+6634975823,Institutions de formation et d’éducation féminine Camp Gallieni,5.3349557,-4.0267253,school,Inconnu,,,OpenStreetMap
+6635007278,Les institutions de formation et d’éducation Treichville François Amichia,5.3078646,-4.0056324,school,Inconnu,,,OpenStreetMap
+6635008479,Institut National de Formation des Agents de Santé,5.2925933,-4.004589,school,Inconnu,,,OpenStreetMap
+6635037190,Centre de Bureautique de Communication et de Gestion de Treichville,5.2998591,-3.9990261,college,Inconnu,,,OpenStreetMap
+6635089313,EPV Rahma,5.3122126,-4.1136191,school,Inconnu,,,OpenStreetMap
+6635487291,Collège d'Enseignement Technique Industriel Marcory,5.2915491,-3.9860684,school,Inconnu,,,OpenStreetMap
+6635515833,Centre d'Education Specialisé,5.2888502,-3.9654087,school,Inconnu,,,OpenStreetMap
+6635515834,Centre Social,5.2890732,-3.965579,school,Inconnu,,,OpenStreetMap
+6635531866,Centre de Perfectionnement aux Metiers du Bois,5.2912606,-3.9709032,school,Inconnu,,,OpenStreetMap
+6635534866,Complexe Socio-Educatif (Cocody Nord),5.3373258,-3.9997946,school,Inconnu,,,OpenStreetMap
+6635535787,Centre de Perfectionnement aux Métiers de la Mécanique et de l'Electricité,5.290617,-3.9700341,college,Inconnu,,,OpenStreetMap
+6635548863,Centre de Promotion Feminine et Professionnel Marie Dominique,5.3033885,-3.9583437,school,Inconnu,,,OpenStreetMap
+6635556273,Les Institutions de Formation et d’Education Féminine Anoumabo Espoir,5.3098516,-3.9673466,school,Inconnu,,,OpenStreetMap
+6635573375,USDNCI,5.3721051,-3.996765,school,Inconnu,,,OpenStreetMap
+6635576503,Lycée Professionnel Hotelier,5.3362883,-3.9743793,school,Inconnu,,,OpenStreetMap
+6635601267,Centre de Formation et de Perfectionnement aux Métiers de la Mécanique Automobile,5.3366756,-3.9454329,school,Inconnu,,,OpenStreetMap
+6635607431,Centre de Formation Pere Antonio Celona,5.3751468,-3.9396447,school,Inconnu,,,OpenStreetMap
+6635607973,Centre Marie Eugénie Soeur de l'Assomption Alphabétisation Arts Menagers,5.3985044,-3.9931306,school,Inconnu,,,OpenStreetMap
+6635612817,Groupe de Formation aux Métiers et aux Emplois,5.4305847,-4.0120241,school,Inconnu,,,OpenStreetMap
+6661671345,École sans nom,5.2414932,-3.8929916,school,Inconnu,,,OpenStreetMap
+6670737644,Ecole Maternelle Saint Pierre,5.3088608,-3.972483,school,Inconnu,,,OpenStreetMap
+6751885581,Collège Atlantique-2,5.3328425,-4.106143,school,Inconnu,,,OpenStreetMap
+6781224067,Groupe scolaire Les lagunes,5.3189867,-4.112223,school,Inconnu,,,OpenStreetMap
+6786694317,Lycée moderne Alassane Ouattara,5.5096923,-4.0538,school,Inconnu,,,OpenStreetMap
+6829789186,EPP Saboto,5.4250887,-4.0120365,school,Inconnu,,,OpenStreetMap
+6829800785,EPP Flamboyant 1,5.4247905,-4.0121639,school,Inconnu,,,OpenStreetMap
+6852835345,Institut Catholique Missionnaire d'Abidjan,5.4395364,-4.0392495,college,Inconnu,,,OpenStreetMap
+6875256786,Club saint Michelle Ecole,5.2755276,-3.9647786,school,Inconnu,,,OpenStreetMap
+6915129548,Institut Supérieur Nanan Thérèse,5.3293705,-4.0240978,college,Inconnu,,,OpenStreetMap
+6965925576,Collège Eulalie Blah,5.4187323,-4.0065129,school,Inconnu,,,OpenStreetMap
+6990023649,Groupe scolaire Primus,5.3608102,-3.9264055,school,Inconnu,,,OpenStreetMap
+6996984151,Institut Adam Marshall,5.3278082,-4.0499854,school,Inconnu,,,OpenStreetMap
+6997009827,Les établissements Offoumou Yapo,5.3328034,-4.0513218,school,Inconnu,,,OpenStreetMap
+6997011949,EPP Siporex 9,5.326171,-4.0543707,school,Inconnu,,,OpenStreetMap
+7047343295,EPP Ebimpé III,5.5002692,-4.0789714,school,Inconnu,,,OpenStreetMap
+7047343344,Collège privé Les olympiques d'Ebimpé,5.5034878,-4.0761838,school,Inconnu,,,OpenStreetMap
+7071943661,Collège Coffi Gadeau,5.442466,-4.0086199,school,Inconnu,,,OpenStreetMap
+7113385985,Notre Dame de la paix d'abadjin Kouté,5.3214005,-4.1537497,college,Inconnu,,,OpenStreetMap
+7113385986,École sans nom,5.3218549,-4.1544253,college,Inconnu,,,OpenStreetMap
+7113386185,Cy,5.3989538,-3.9904193,school,Inconnu,,,OpenStreetMap
+7131585749,Ecole bon pasteur,5.3434969,-4.0924356,school,Inconnu,,,OpenStreetMap
+7142652602,Epp Sagesse Ecole Franco-Arabe,5.3430385,-4.0917276,school,Inconnu,,,OpenStreetMap
+7147463963,EPP Gonzagueville,5.2418394,-3.9020345,school,UNICEF Côte d'Ivoire,,,OpenStreetMap
+7149258077,Ecole Franco-coranique,5.3441599,-4.0919687,school,Inconnu,,,OpenStreetMap
+7167654071,institution sacre coeur d adjame(ISCA),5.3603339,-4.0256712,school,Inconnu,,,OpenStreetMap
+7248267049,EPP Flamboyant Bad,5.4237143,-4.0121019,school,Inconnu,,,OpenStreetMap
+7248267050,EPP Flamboyant 2,5.4235501,-4.0117693,school,Inconnu,,,OpenStreetMap
+7248267051,EPP Flamboyant 2,5.4236529,-4.0115373,school,Inconnu,,,OpenStreetMap
+7248267052,EPP Ouest 2,5.4242844,-4.011941,school,Inconnu,,,OpenStreetMap
+7248267053,EPP Ouest 1,5.4239787,-4.0116379,school,Inconnu,,,OpenStreetMap
+7248267054,EPP Valery Giscard 2,5.424518,-4.01143,school,Inconnu,,,OpenStreetMap
+7248267055,EPP Valery Giscard 1,5.4241749,-4.0115467,school,Inconnu,,,OpenStreetMap
+7248267056,EPP Nord 1,5.4243899,-4.012531,school,Inconnu,,,OpenStreetMap
+7248267057,EPP Nord 2,5.4245301,-4.0117881,school,Inconnu,,,OpenStreetMap
+7248267058,EPP Nord 2,5.4247403,-4.0123949,school,Inconnu,,,OpenStreetMap
+7255938486,Institut de Géographie Tropicale (IGT),5.3424298,-3.9870124,college,Inconnu,,,OpenStreetMap
+7293987949,Groupe Scolaire Nour,5.3101578,-3.9881697,school,Inconnu,,,OpenStreetMap
+7294181622,El Ridwane II,5.2477201,-3.9201524,school,Inconnu,,,OpenStreetMap
+7294214785,Lycée Moderne de Cocody,5.3355783,-3.994778,school,Inconnu,,,OpenStreetMap
+7294301814,Mandragores,5.2548526,-3.9192992,kindergarten,Inconnu,,,OpenStreetMap
+7294432269,Groupe scolaire le Bachelier,5.2516166,-3.9198361,school,Inconnu,,,OpenStreetMap
+7294870953,Sagesse Divine,5.2446427,-3.9194365,school,Inconnu,,,OpenStreetMap
+7294894664,Les étoiles d'Adjouffou,5.2459398,-3.9183331,school,Inconnu,,,OpenStreetMap
+7304058621,Groupe Scolaire Adjouffou,5.2471605,-3.9201996,school,Inconnu,,,OpenStreetMap
+7343712618,Groupe École Alfred Nobel,5.3018021,-3.987247,school,Inconnu,,,OpenStreetMap
+7541707062,EPV Yahi Serehi,5.4686433,-4.0365556,school,Inconnu,,,OpenStreetMap
+7541744394,Ecole primaire REMAR,5.4998195,-4.043759,school,Inconnu,,,OpenStreetMap
+7541759470,"Institut Islamique Djiguiya Anyama
+college et primaire",5.4730317,-4.0318772,school,Inconnu,,,OpenStreetMap
+7541759500,Groupe scolaire la victoire divine 2,5.456972,-4.0439307,school,Inconnu,,,OpenStreetMap
+7541764508,Établissement confessionnel Sabil Houda,5.457252,-4.0501186,school,Inconnu,,,OpenStreetMap
+7541767989,Jardin d'enfants Bleu et Rose,5.3941562,-3.9922536,kindergarten,Inconnu,,,OpenStreetMap
+7731727238,GS Sanogo Almamy,5.365178,-4.0668485,school,Inconnu,,,OpenStreetMap
+7756509604,École supérieure Estime,5.3633491,-4.0669035,school,Inconnu,,,OpenStreetMap
+7756509605,Groupe scolaire Andokoi 1,5.368247,-4.0679218,school,Inconnu,,,OpenStreetMap
+7756509619,Sup Barakat,5.3633404,-4.0667539,school,Inconnu,,,OpenStreetMap
+7759126317,Collège privé Marina,5.2479747,-3.9202964,college,Inconnu,,,OpenStreetMap
+7759133765,EPV Belleville,5.2531994,-3.9199097,school,Inconnu,,,OpenStreetMap
+7779479788,angre les tulipes,5.403468,-3.9851899,school,Inconnu,,,OpenStreetMap
+7779479986,Angre les Flamboyants,5.405305,-3.990923,school,Inconnu,,,OpenStreetMap
+7963140685,École libanaise,5.2890575,-3.9726691,school,Inconnu,,,OpenStreetMap
+8165631144,CSM Angre John Wesley,5.4075254,-3.9631587,school,Inconnu,,,OpenStreetMap
+8308044016,Epp Eloka Palmafrique,5.3157106,-3.8000623,school,Inconnu,,,OpenStreetMap
+8308136204,Ecole,5.3255057,-3.839906,school,Inconnu,,,OpenStreetMap
+8558720325,Techshelter Innovation et Transformation Digitale,5.3722721,-3.9827646,college,Inconnu,,,OpenStreetMap
+8558734837,Makan Traore,5.4213188,-4.0036275,school,Inconnu,,,OpenStreetMap
+8561336915,Institut International Polytechnique des Elites d'Abidjan,5.3555508,-3.9781641,college,Inconnu,,,OpenStreetMap
+8568951385,Crèche Prescolaire Garderie,5.3858097,-3.9932312,kindergarten,Inconnu,,,OpenStreetMap
+8569188891,Estam,5.390934,-3.991123,college,Inconnu,,,OpenStreetMap
+8571535448,Prestige International,5.3978081,-3.9912779,college,Inconnu,,,OpenStreetMap
+8571535449,Groupe Ariel,5.3977995,-3.9913389,college,Inconnu,,,OpenStreetMap
+8571535450,Groupe Simbat,5.3977708,-3.9912833,college,Inconnu,,,OpenStreetMap
+8575695968,Ecole Polyfinance,5.4018864,-3.9905959,college,Inconnu,,,OpenStreetMap
+8577038821,Les Florianes,5.4160014,-3.9895096,school,Inconnu,,,OpenStreetMap
+8582478144,Lycée Moderne 1Et2 Abobo,5.4277235,-4.0144332,school,Inconnu,,,OpenStreetMap
+8583883677,École Coranique,5.4414573,-4.0145263,school,Inconnu,,,OpenStreetMap
+8583906534,Collège Le Figuier,5.3773992,-3.9668208,school,Inconnu,,,OpenStreetMap
+8583912887,École Primaire,5.3513886,-3.9546945,school,Inconnu,,,OpenStreetMap
+8583928231,Groupe Scolaire Rita Rosanne,5.4387099,-4.0119992,school,Inconnu,,,OpenStreetMap
+8583939593,Groupe Scolaire Islamique,5.4449292,-4.0099008,school,Inconnu,,,OpenStreetMap
+8583940253,École Privée Catholique Notre Dame Des Anges,5.3239084,-3.9980044,school,Inconnu,,,OpenStreetMap
+8583941118,Epv Ange Arriko,5.4387237,-4.0096125,school,Inconnu,,,OpenStreetMap
+8584389363,English Labs,5.3873323,-3.9931135,college,Inconnu,,,OpenStreetMap
+8584448918,IFSM École Supérieure Et Secondaire Technique,5.3452597,-4.0024131,school,Inconnu,,,OpenStreetMap
+8584460920,Collège Privé Étienne 1Er Et 2Nd Cycle,5.3555357,-3.977446,school,Inconnu,,,OpenStreetMap
+8584465856,École Coranique,5.4178647,-4.0137431,school,Inconnu,,,OpenStreetMap
+8584473191,Cpres Ecole,5.4384035,-4.0189279,school,Inconnu,,,OpenStreetMap
+8584473193,Collège René Callé,5.4338389,-4.0180324,school,Inconnu,,,OpenStreetMap
+8584473194,Isde Établissement,5.4355785,-4.0197116,school,Inconnu,,,OpenStreetMap
+8584548911,École Coranique Ibn Taimiyya Coranique,5.4145354,-4.0152712,school,Inconnu,,,OpenStreetMap
+8584553216,Collège Diderot Abobo,5.4131328,-4.0115188,school,Inconnu,,,OpenStreetMap
+8586188146,EPV Père Louis Wach Abobo,5.4383671,-4.0186384,school,Inconnu,,,OpenStreetMap
+8586448313,College Victor LOBA,5.4126758,-3.9942079,school,Inconnu,,,OpenStreetMap
+8586496117,Epp Béthanie,5.4152418,-4.0010039,school,Inconnu,,,OpenStreetMap
+8586496983,Epp Sipim les Planètes,5.3820911,-3.9512976,school,Inconnu,,,OpenStreetMap
+8586583265,Groupe CSI Pole Polytechnique,5.3595326,-3.9649272,college,Inconnu,,,OpenStreetMap
+8586674205,Ecole le Petit Royaume,5.3612573,-3.9656023,school,Inconnu,,,OpenStreetMap
+8586674206,Groupe Ecole Béthel,5.3599604,-3.9656904,school,Inconnu,,,OpenStreetMap
+8586914123,Centre Africain D'Expertise,5.3778601,-3.9869873,college,Inconnu,,,OpenStreetMap
+8586914130,Centre De Formation Routière International,5.3946746,-3.976501,college,Inconnu,,,OpenStreetMap
+8586922377,Isab Institue Supérieur D'Assurance Banque Et Bourse,5.369402,-3.9684658,college,Inconnu,,,OpenStreetMap
+8586922464,Centre De Formation Pluriel,5.3988364,-3.9803124,college,Inconnu,,,OpenStreetMap
+8586926960,Groupe Scolaire Le Figuier,5.368385,-3.9669283,school,Inconnu,,,OpenStreetMap
+8586927226,Phénix Int Centre De Formation,5.3691275,-3.9683769,college,Inconnu,,,OpenStreetMap
+8586930425,Reveal School,5.3698448,-3.9676603,school,Inconnu,,,OpenStreetMap
+8586930428,El Haï,5.3744882,-3.9701927,school,Inconnu,,,OpenStreetMap
+8587336250,Centre Sainte Marie Des Technologies De L'Informatique,5.3375091,-3.9721729,college,Inconnu,,,OpenStreetMap
+8592093039,ISFCG SHAMS Formation,5.4386606,-4.009988,school,Inconnu,,,OpenStreetMap
+8592117226,Groupe Scolaire Kiyala,5.4293873,-3.9890085,school,Inconnu,,,OpenStreetMap
+8592193008,Centre de Formation de football CFNYS,5.3810788,-3.93207,school,Inconnu,,,OpenStreetMap
+8592240549,École internationale anglophone SIMA,5.3686782,-3.9421777,college,Inconnu,,,OpenStreetMap
+8595790190,Groupe Scolaire Saint Simon,5.4149827,-4.0097871,school,Inconnu,,,OpenStreetMap
+8596286592,Ecole Victor Sholcher,5.358686,-3.9660211,school,Inconnu,,,OpenStreetMap
+8596295101,Collège Nadreau La Source,5.4178508,-3.9996116,school,Inconnu,,,OpenStreetMap
+8596303403,Ecole Coranique,5.4140332,-4.0117347,school,Inconnu,,,OpenStreetMap
+8596309930,Collège Les Orchidées,5.4141802,-4.0051879,school,Inconnu,,,OpenStreetMap
+8596311508,Groupe Scolaire Saint Cyr,5.4153688,-4.0117456,school,Inconnu,,,OpenStreetMap
+8596315290,Ecole Primaire Catholique,5.4237768,-3.9987037,school,Inconnu,,,OpenStreetMap
+8596315743,École Coranique,5.4131698,-4.0117797,school,Inconnu,,,OpenStreetMap
+8596317365,École sans nom,5.4379492,-4.0174526,school,Inconnu,,,OpenStreetMap
+8596317422,Ecole Coranique,5.4144646,-4.0133598,school,Inconnu,,,OpenStreetMap
+8596317426,Collège Anouman Nandjui,5.4323697,-4.0188441,school,Inconnu,,,OpenStreetMap
+8611190625,Smart Net Africa Technology,5.4320066,-4.0146369,college,Inconnu,,,OpenStreetMap
+8622294714,Groupe Scolaire de Clouetcha,5.4221069,-4.0048331,school,Inconnu,,,OpenStreetMap
+8691882627,Groupe Scolaire Mondon,5.2949792,-3.9637909,school,Inconnu,,,OpenStreetMap
+8695299735,École sans nom,5.3396312,-4.0269828,school,Inconnu,,,OpenStreetMap
+8695405190,Groupe Scolaire Collège-Victor Schoelcher,5.3390083,-4.0630062,school,Inconnu,,,OpenStreetMap
+8710442982,École sans nom,5.3460279,-4.0321568,school,Inconnu,,,OpenStreetMap
+8715597422,École Protestante,5.3374607,-4.0636942,school,Inconnu,,,OpenStreetMap
+8728720544,École Primaire SICOGI 7 BAD,5.3373205,-4.067118,school,Inconnu,,,OpenStreetMap
+8733609028,Ecole Confessionnelle Islamique Oular Boun Khatab,5.3446071,-4.0296677,school,Inconnu,,,OpenStreetMap
+8733695307,EPP Djagouaodo,5.3467944,-4.0321917,school,Inconnu,,,OpenStreetMap
+8733695308,EPP Gbadji,5.3463924,-4.032142,school,Inconnu,,,OpenStreetMap
+8733698838,EPP SICOGI 4,5.3399924,-4.0701368,school,Inconnu,,,OpenStreetMap
+8734309795,Groupe Scolaire Sicogi 10,5.3326349,-4.0716362,school,Inconnu,,,OpenStreetMap
+8754098901,Centre de Protection de la Petite Enfance CPPE,5.3410066,-4.0270391,school,Inconnu,,,OpenStreetMap
+8754099507,Ecole Coranique,5.3396946,-4.027422,school,Inconnu,,,OpenStreetMap
+8754117747,Groupe Scolaire Philippe Yace 1 & 2,5.3410433,-4.0286706,school,Inconnu,,,OpenStreetMap
+8786454299,Groupe Scolaire Akounda,5.3334815,-4.0641435,school,Inconnu,,,OpenStreetMap
+8786512846,Groupe Scolaire Sainte Adjoua Fadette,5.334025,-4.0686777,school,Inconnu,,,OpenStreetMap
+8789713001,Enseignement Confessionnel Islamique,5.3326136,-4.0682821,school,Inconnu,,,OpenStreetMap
+8789713007,EPV Pigeons,5.3330836,-4.0685745,school,Inconnu,,,OpenStreetMap
+8789713009,Groupe Scolaire Mahadi Ouloum,5.3328326,-4.0684994,school,Inconnu,,,OpenStreetMap
+8789754422,College Pigeons,5.3333667,-4.0685785,school,Inconnu,,,OpenStreetMap
+8789880628,Groupe ISTEMA,5.3303863,-4.0620567,college,Inconnu,,,OpenStreetMap
+8789979531,Eurof Formation,5.3322985,-4.0683559,college,Inconnu,,,OpenStreetMap
+8789979552,College Pigeons,5.33338,-4.0678717,school,Inconnu,,,OpenStreetMap
+8791525627,College Privé la Rosé,5.3306333,-4.0669383,school,Inconnu,,,OpenStreetMap
+8791871806,Ecole Primaire Publique Medji Bamba,5.3306854,-4.0707953,school,Inconnu,,,OpenStreetMap
+8795979507,Ecole Maternelle Biégoussi,5.3450912,-4.0322661,kindergarten,Inconnu,,,OpenStreetMap
+8795979508,Groupe Scolaire Biégoussi,5.3452234,-4.0322164,school,Inconnu,,,OpenStreetMap
+8796011498,EPP Gbobouto,5.34659,-4.0321487,school,Inconnu,,,OpenStreetMap
+8806931596,Collège Privé Claire Fontaine,5.340369,-4.0695541,school,Inconnu,,,OpenStreetMap
+8807472221,Groupe Scolaire BIA,5.3438734,-4.0272819,school,Inconnu,,,OpenStreetMap
+8817078933,Ecole Polytechnique Leonard de Vinci,5.3335189,-4.0625435,college,Inconnu,,,OpenStreetMap
+8817078938,Ecole de Formation de Couture,5.3311715,-4.07298,school,Inconnu,,,OpenStreetMap
+8832471761,Ecole Coranique,5.4256769,-4.0013717,school,Inconnu,,,OpenStreetMap
+8832511006,Ecole Coranique,5.4206863,-4.0032486,school,Inconnu,,,OpenStreetMap
+8832521802,Groupe Scolaire Sainte Suzane,5.4198171,-4.00223,school,Inconnu,,,OpenStreetMap
+8832678700,Institut Scolaire Rose Divine,5.4364915,-3.987606,school,Inconnu,,,OpenStreetMap
+8832678701,Pépinière d'Abobo,5.4370365,-3.987582,school,Inconnu,,,OpenStreetMap
+8832680248,Groupe scolaire Joseph Epoux,5.3598714,-3.9256308,school,Inconnu,,,OpenStreetMap
+8832680258,Groupe scolaire fraîche rosée des cracks,5.3604706,-3.9287476,school,Inconnu,,,OpenStreetMap
+8832680263,Groupe scolaire international les Adorables,5.3618257,-3.9303022,school,Inconnu,,,OpenStreetMap
+8832680290,École privée maternelle et primaire,5.3529217,-3.9707149,school,Inconnu,,,OpenStreetMap
+8833592604,Groupe Scolaire St Marc,5.3833929,-3.9724213,school,Inconnu,,,OpenStreetMap
+8833840217,Groupe Scolaire Marek,5.3873905,-3.9745174,school,Inconnu,,,OpenStreetMap
+8835228803,École maternelle Diagou Gomont Jean Baptiste,5.3250383,-3.999393,school,Inconnu,,,OpenStreetMap
+8836601779,École Internationale des Ponts et Chaussées,5.4100948,-3.9852074,college,Inconnu,,,OpenStreetMap
+8838500277,Groupe ISFCG-Abidjan,5.4032375,-3.9911699,college,Inconnu,,,OpenStreetMap
+8839260242,ICAF Ingénierie Conseil Audit Formation,5.3919568,-3.9804679,school,Inconnu,,,OpenStreetMap
+8839368738,Koodal Académie Africaine Université Taharqa Sarê,5.3937179,-3.9923166,college,Inconnu,,,OpenStreetMap
+8839675382,École Supérieure de Commerce et de Management et d'Administration,5.3486784,-3.9972706,college,Inconnu,,,OpenStreetMap
+8841546667,Garderie KINDERDORF,5.333025,-3.9999511,kindergarten,Inconnu,,,OpenStreetMap
+8841921650,Groupe scolaire Israël,5.4319022,-3.9927149,school,Inconnu,,,OpenStreetMap
+8841921685,EPV les tisserands,5.4278083,-3.9943353,school,Inconnu,,,OpenStreetMap
+8842034233,Centre International de Formation en Management,5.3637253,-3.9792623,college,Inconnu,,,OpenStreetMap
+8842034234,Groupe scolaire Jules Ferry,5.3641085,-3.9794728,school,Inconnu,,,OpenStreetMap
+8842281330,Collège Carine d'abobo,5.442751,-4.0200499,school,Inconnu,,,OpenStreetMap
+8842281338,Groupe scolaire houphouet Boigny 123,5.4413153,-4.0168665,school,Inconnu,,,OpenStreetMap
+8842281353,Groupe scolaire AOF,5.4412002,-4.0267604,school,Inconnu,,,OpenStreetMap
+8842313777,Groupe scolaire ANAMACCI,5.4354832,-4.0239293,school,Inconnu,,,OpenStreetMap
+8842313782,Groupe scolaire el tratou tahirou camp commando,5.435101,-4.0223158,school,Inconnu,,,OpenStreetMap
+8842436384,Centre d'action communautaire terre promise,5.4494782,-4.0158341,school,Inconnu,,,OpenStreetMap
+8842436387,Collège André des pres,5.4491618,-4.0155269,school,Inconnu,,,OpenStreetMap
+8842436400,GSPER Le Lycee de Professeurs,5.4464255,-4.0188471,school,Inconnu,,,OpenStreetMap
+8842436403,Groupe scolaire Laplace abobo akekoi,5.4459771,-4.0164859,school,Inconnu,,,OpenStreetMap
+8842436404,Groupe scolaire Hermann,5.4464608,-4.0157934,school,Inconnu,,,OpenStreetMap
+8846760178,Groupe scolaire les petites abeilles,5.3831265,-3.9688804,kindergarten,Inconnu,,,OpenStreetMap
+8846760186,Ecole internationale canada la providence,5.3829871,-3.9711169,kindergarten,Inconnu,,,OpenStreetMap
+8846760187,Bambolino,5.3829871,-3.9712325,school,Inconnu,,,OpenStreetMap
+8846760206,Groupe scolaire saint marc,5.3834353,-3.972259,school,Inconnu,,,OpenStreetMap
+8846760228,Group Ms institut,5.3789883,-3.9715569,school,Inconnu,,,OpenStreetMap
+8846760232,Victoria koa,5.3794207,-3.9716932,kindergarten,Inconnu,,,OpenStreetMap
+8846760254,Groupe scolaire abri 2000,5.3772419,-3.9725987,school,Inconnu,,,OpenStreetMap
+8846760263,Ecole le muguet collège,5.3758734,-3.9725673,school,Inconnu,,,OpenStreetMap
+8846760308,Institut marie mère,5.3757726,-3.9666949,school,Inconnu,,,OpenStreetMap
+8846760394,Centre préscolaire sainte philomene,5.3766503,-3.9624768,school,Inconnu,,,OpenStreetMap
+8846760560,Groupe scolaire Yadaozi maternelle primaire secondaire,5.3863676,-3.9288483,school,Inconnu,,,OpenStreetMap
+8846760618,Groupe scolaire les Alizées,5.363585,-3.9370972,school,Inconnu,,,OpenStreetMap
+8846760736,Ecole maternelle et primaire grain de soleil,5.3518118,-3.9542648,school,Inconnu,,,OpenStreetMap
+8846760759,Maternelle Garderie MIMI JOLY,5.3546742,-3.9646474,kindergarten,Inconnu,,,OpenStreetMap
+8857718011,Grande Ecole Esma,5.3540795,-3.9699014,college,Inconnu,,,OpenStreetMap
+8905685137,École sans nom,5.2365126,-3.873142,school,Inconnu,,,OpenStreetMap
+8917682017,Collège Eulalie Blah 1,5.4202177,-4.0029716,school,Inconnu,,,OpenStreetMap
+8918358610,ESCA-CI: ecole superieur,5.3801257,-3.973863,college,Inconnu,,,OpenStreetMap
+8922343609,Jenifa shool garderie enfant,5.4034058,-3.9812109,kindergarten,Inconnu,,,OpenStreetMap
+8983241277,Groupe Ecole ASP,5.3951612,-3.9861113,school,Inconnu,,,OpenStreetMap
+8983332308,Baby Star,5.3978173,-3.9857657,school,Inconnu,,,OpenStreetMap
+8983345620,Crêche Garderie Nounou,5.4001929,-3.9855112,school,Inconnu,,,OpenStreetMap
+9024567799,Beugre 2,5.4136216,-4.0100819,school,Inconnu,,,OpenStreetMap
+9024567807,École St Simon,5.4122796,-4.0100712,school,Inconnu,,,OpenStreetMap
+9024639521,EPV BEUGRE 1,5.4143301,-4.0100712,school,Inconnu,,,OpenStreetMap
+9024639545,Collège Communauté 2,5.4143912,-4.0138698,school,Inconnu,,,OpenStreetMap
+9387639304,Groupe Scolaire les Lauriers 6 & 7,5.3691506,-3.9740724,school,Inconnu,,,OpenStreetMap
+9396432945,Paul Langevin,5.2810561,-3.9775277,school,Inconnu,,,OpenStreetMap
+9466792319,Groupe Scolaire Koné Idrissa,5.3316784,-4.0936305,school,Inconnu,,,OpenStreetMap
+9557373146,Université internationale Clairefontaine 2,5.3626119,-4.0661133,school,Inconnu,,,OpenStreetMap
+9599291871,École sans nom,5.2654367,-4.2386379,school,Inconnu,,,OpenStreetMap
+9947309617,PDZ 2PL103,5.3633956,-3.9918399,school,Inconnu,,,OpenStreetMap
+9956254911,Cours secondaire Apollos,5.2519265,-3.9018621,school,Inconnu,,,OpenStreetMap
+9956290596,Groupe scolaire Dembele,5.2518576,-3.9022249,school,Inconnu,,,OpenStreetMap
+9956304194,Collège Haroun Tazieff,5.4127776,-4.0201814,college,Inconnu,,,OpenStreetMap
+9956316325,EPV Mouthy Diomande,5.3132566,-3.9540571,school,Inconnu,,,OpenStreetMap
+9956316655,Groupe Scolaire Emmanuel,5.2472659,-3.9030997,school,Inconnu,,,OpenStreetMap
+9956317369,Groupe Scolaire Mousse,5.2496249,-3.903839,school,Inconnu,,,OpenStreetMap
+10095724317,Écoles Internationales Maarif,5.3398846,-3.9164576,school,Inconnu,,,OpenStreetMap
+10125804716,Groupe Louis Nicollin,5.3763629,-3.9509126,school,Inconnu,,,OpenStreetMap
+10156683873,CEST-1,5.361737,-4.071884,school,Inconnu,,,OpenStreetMap
+10196654549,Institut Confucius,5.3465326,-3.9889383,college,Inconnu,,,OpenStreetMap
+10196779517,Département de Communication,5.3421017,-3.9867744,college,Inconnu,,,OpenStreetMap
+10196779518,Département de sociologie,5.3427676,-3.9869753,college,Inconnu,,,OpenStreetMap
+10196780217,Département des lettres modernes,5.3432014,-3.9861317,college,Inconnu,,,OpenStreetMap
+10196780417,Département d'histoire,5.3432238,-3.9864671,college,Inconnu,,,OpenStreetMap
+10646799406,Lycée municipal 1 Attecoubé,5.3142509,-4.0346769,school,Inconnu,,,OpenStreetMap
+10646799407,Lycée municipal 2 d'Attécoubé,5.3132941,-4.0338196,school,Inconnu,,,OpenStreetMap
+10646805805,École privée islamique AL-IMAN,5.3454452,-4.0522221,school,Inconnu,,,OpenStreetMap
+10688745606,Groupe scolaire des rois pelés,5.2497827,-3.901305,school,Inconnu,,,OpenStreetMap
+10697086268,École Chrétienne Adonaï,5.3312247,-4.0479201,school,Inconnu,,,OpenStreetMap
+10723194032,ecole maternelle publique l'eminence n441,5.3659257,-3.9612016,school,Inconnu,,,OpenStreetMap
+10738243466,LYCÉE MODERNE AKOUPÉ-ZEUDJI,5.4814875,-4.1651885,college,Inconnu,,,OpenStreetMap
+10857049638,GSP Bonoumin,5.3663832,-3.9805374,school,Inconnu,,,OpenStreetMap
+10859187752,La règle d'oribat,5.3412072,-3.9214946,school,Inconnu,,,OpenStreetMap
+11052802106,EPP SIPOREX 3,5.3312799,-4.0571702,school,Inconnu,,,OpenStreetMap
+11181698867,École sans nom,5.4231858,-4.0200086,school,Inconnu,,,OpenStreetMap
+11212237438,Morning Glory International School,5.3622133,-3.9060442,school,Inconnu,,,OpenStreetMap
+11243431653,Epv Tere,5.4219862,-4.0235968,school,Inconnu,,,OpenStreetMap
+11250062843,Groupe Scolaire Les Dauphins,5.3689744,-3.9908177,school,Inconnu,,,OpenStreetMap
+11260003557,École La Marelle,5.3456867,-3.9803398,school,Inconnu,,,OpenStreetMap
+11379783569,École sans nom,5.3844522,-3.9556272,school,Inconnu,,,OpenStreetMap
+11409900870,Carrefour chez moi,5.2549605,-3.9118504,school,Inconnu,,,OpenStreetMap
+11502621084,Lycée Municipal Simone Ehivet Gbagbo,5.3174978,-4.1010956,school,Inconnu,,,OpenStreetMap
+11518637169,Pôle Scientifique et Technologique UFHB,5.3602618,-3.9025149,school,Inconnu,,,OpenStreetMap
+11621883204,École sans nom,5.3213264,-4.2370121,school,Inconnu,,,OpenStreetMap
+11642938869,Salle de cours INCURBATION,5.3584399,-3.9016708,school,Inconnu,,,OpenStreetMap
+11789331384,Groupe BOWL,5.3583446,-4.0854699,school,Inconnu,,,OpenStreetMap
+11896715819,Lycée municipal Abobo,5.4431297,-4.0386167,school,Inconnu,,,OpenStreetMap
+11982080869,Groupe Scolaire Abri Sûr,5.3935857,-4.0128133,school,Inconnu,,,OpenStreetMap
+11990648869,École EPV Emmanuel Trinité,5.3967062,-4.0198522,school,Inconnu,,,OpenStreetMap
+12351748096,Groupe scolaire fraîche rosée des cracks,5.3597054,-3.9287563,school,Inconnu,,,OpenStreetMap
+12356137970,Groupe scolaire la tour eifel,5.3618486,-3.9163095,school,Inconnu,,,OpenStreetMap
+12604266801,Collège d’enseignement général maritime,5.2829845,-3.9782314,school,Inconnu,,,OpenStreetMap
+12636172001,Les Ribambelles,5.2746711,-3.9743967,kindergarten,Inconnu,,,OpenStreetMap
+60454533,Collège Saint-Viateur d'Abidjan,5.3831661,-3.9546167,school,Inconnu,,,OpenStreetMap
+62802573,Lycée Sainte-Marie de Cocody,5.3332106,-3.9952416,school,Inconnu,,,OpenStreetMap
+93778592,College IGES,5.3207609,-4.081119,school,Inconnu,,,OpenStreetMap
+106049964,Collège Aimé Cesaire,5.3435038,-4.0832489,school,Inconnu,,,OpenStreetMap
+106064327,École sans nom,5.3199998,-4.0935461,school,Inconnu,,,OpenStreetMap
+121022809,Lycée Moderne de Treichville,5.3084377,-4.0041906,school,Inconnu,,,OpenStreetMap
+123439283,École sans nom,5.3003219,-3.9976522,school,Inconnu,,,OpenStreetMap
+125076722,Lycée Classique d'Abidjan,5.3322617,-4.0059527,school,Inconnu,,,OpenStreetMap
+146919232,Lycée international Jean-Mermoz,5.3403367,-3.9986333,school,Mission laïque française,,,OpenStreetMap
+146919233,Cours Secondaire Méthodiste de Cocody,5.3478094,-3.9935691,school,Inconnu,,,OpenStreetMap
+182934064,Institut Libanais d'Enseignement (ILE),5.3110492,-4.0124016,school,Inconnu,,,OpenStreetMap
+185201523,École Primaire Publique - Boulevard du Gabon,5.2995086,-3.9839152,school,Inconnu,,,OpenStreetMap
+185352141,Lycée Français Blaise Pascal Abidjan,5.3512268,-3.9518232,school,Inconnu,,,OpenStreetMap
+188119403,Groupe Scolaire Al Ghadir,5.3292259,-3.944046,school,Inconnu,,,OpenStreetMap
+188120952,IBM-T - Institut Britannique de Management et de Technologies,5.33325,-3.9574882,school,Inconnu,,,OpenStreetMap
+188120954,Lycée Américain,5.3314222,-3.9570552,school,Inconnu,,,OpenStreetMap
+188121730,École Primaire Publique de M'Pouto Village,5.3260356,-3.9539493,school,Inconnu,,,OpenStreetMap
+206695668,École sans nom,5.3290076,-4.0219065,school,Inconnu,,,OpenStreetMap
+206695718,École sans nom,5.3286325,-4.0219245,school,Inconnu,,,OpenStreetMap
+237455890,École Victor Loba'd,5.3128811,-3.9643459,school,Inconnu,,,OpenStreetMap
+237748090,École Primaire Public Rosiers 6,5.3951244,-3.9679256,school,Inconnu,,,OpenStreetMap
+237748091,Maternelle Rosiers 6,5.3948917,-3.9680177,school,Inconnu,,,OpenStreetMap
+237899483,Municipale d'Aliodan,5.3075311,-3.9628806,school,Inconnu,,,OpenStreetMap
+238187872,Groupe scolaire Le président,5.3256857,-4.0813105,school,Inconnu,,,OpenStreetMap
+238282191,EPV Aliodan I,5.311354,-3.9689863,school,Inconnu,,,OpenStreetMap
+238282676,École primaire d’Aliodan 3,5.3063511,-3.9644269,school,Inconnu,,,OpenStreetMap
+238867740,Fred et Popée,5.3927195,-3.9758765,school,Inconnu,,,OpenStreetMap
+238867741,Collège Sainte Camille,5.3928684,-3.974863,school,Inconnu,,,OpenStreetMap
+239135949,Groupe Scolaire la Rochelle,5.2993523,-3.9705572,school,Inconnu,,,OpenStreetMap
+239138577,Lycée Moderne Colombe,5.3017947,-3.9648121,school,Inconnu,,,OpenStreetMap
+239788531,Gabriel Dadie,5.2991162,-3.9644967,school,Inconnu,,,OpenStreetMap
+239791240,École Primaire Publique du Stade,5.3011908,-3.9791695,school,Inconnu,,,OpenStreetMap
+240760744,EPP Les lagunes,5.2989595,-3.9518207,school,Etat,,,OpenStreetMap
+241251530,École Adama Sanogo,5.402748,-3.9989866,school,Inconnu,,,OpenStreetMap
+241253584,École Primaire Public Latrille,5.4003697,-3.9938808,school,Inconnu,,,OpenStreetMap
+242660847,EPP GEFCI,5.3029726,-3.9741905,school,Inconnu,,,OpenStreetMap
+243149179,College Ste Elysée,5.3054389,-3.9774369,school,Inconnu,,,OpenStreetMap
+243353172,Centre Amigó Doumé,5.3095007,-4.1095996,school,Fondation Amigo,110,,OpenStreetMap
+243379588,École sans nom,5.3109674,-4.1007995,school,Ministre de l’education nationale,,,OpenStreetMap
+256015540,Cours Lamartine,5.3075693,-3.9899571,school,Inconnu,,,OpenStreetMap
+257946559,Epp Sicogi,5.3014216,-3.9998638,school,Inconnu,,,OpenStreetMap
+262812531,ESAM Vridi,5.2716187,-4.0037633,school,ESAM Groupe,,,OpenStreetMap
+262895458,Groupe scolaire Wobin,5.341083,-4.1006606,school,Inconnu,,,OpenStreetMap
+270881656,Epp cité pailler,5.3737394,-4.0130326,school,Inconnu,,,OpenStreetMap
+271261805,Lycée municipal de Koumassi,5.3114858,-3.9440682,school,Inconnu,,,OpenStreetMap
+271270368,Cesa Abidjan,5.3146708,-3.9422595,school,Inconnu,,,OpenStreetMap
+271286280,École sans nom,5.3129558,-3.9510007,school,Inconnu,,,OpenStreetMap
+281037384,École sans nom,5.302921,-3.9744643,school,Inconnu,,,OpenStreetMap
+281037619,École sans nom,5.3029034,-3.9739718,school,Inconnu,,,OpenStreetMap
+281037628,École sans nom,5.3032689,-3.9741141,school,Inconnu,,,OpenStreetMap
+281739861,Groupe Scolaire Les Minimes,5.29962,-3.979304,school,Privé,,,OpenStreetMap
+282419947,College Moderne le Néophite,5.2942148,-3.9593046,school,Inconnu,,,OpenStreetMap
+282969869,École sans nom,5.2961823,-3.9775962,school,Inconnu,,,OpenStreetMap
+282971168,École sans nom,5.2994236,-3.9708156,school,Inconnu,,,OpenStreetMap
+282971632,École sans nom,5.2993291,-3.9704914,school,Inconnu,,,OpenStreetMap
+283458890,École sans nom,5.3502971,-4.1065886,school,Inconnu,,,OpenStreetMap
+283473026,École primaire,5.3045381,-3.9472369,school,Inconnu,,,OpenStreetMap
+285933761,École Primaire Public Dokui Bad,5.3952649,-4.002973,school,Inconnu,,,OpenStreetMap
+286239463,École Primaire Publique 2 Plateaux Nord,5.3669972,-3.9992772,school,Inconnu,,,OpenStreetMap
+286247414,Groupe Scolaire Notre-Dame des 2 Plateaux,5.4045077,-3.9882932,school,Inconnu,,,OpenStreetMap
+286248006,College Le Mahou,5.3983334,-3.9972053,school,Inconnu,,,OpenStreetMap
+286249017,Groupe Scolaire Arc en Ciel du Dokui,5.3903118,-4.0048421,school,Inconnu,,,OpenStreetMap
+286256875,École Primaire Public Azur,5.3982212,-4.0056611,school,Inconnu,,,OpenStreetMap
+286258184,École Primaire Public Abobote Annexe,5.4046193,-4.0030923,school,Inconnu,,,OpenStreetMap
+287945939,Groupe Saint Pierre Marie,5.3387473,-4.1023117,school,Inconnu,,,OpenStreetMap
+291493615,École sans nom,5.3437633,-4.0272382,school,Inconnu,,,OpenStreetMap
+292185311,École sans nom,5.3451139,-4.0297414,school,Inconnu,,,OpenStreetMap
+292185313,École sans nom,5.3444928,-4.0297331,school,Inconnu,,,OpenStreetMap
+292185314,École sans nom,5.3450422,-4.0300405,school,Inconnu,,,OpenStreetMap
+295271722,École sans nom,5.3641291,-3.9795296,school,Inconnu,,,OpenStreetMap
+295271724,École sans nom,5.3642868,-3.9799074,school,Inconnu,,,OpenStreetMap
+295396155,École sans nom,5.3408549,-4.0283656,school,Inconnu,,,OpenStreetMap
+296114584,Groupe Scolaire BAD Ananeraie,5.3364322,-4.0992135,school,Inconnu,,,OpenStreetMap
+296116017,Groupe Segbe Collège Mamadou Traore,5.340412,-4.0904816,school,Inconnu,,,OpenStreetMap
+296585062,Institut LKM,5.3561548,-4.1013753,school,Inconnu,,,OpenStreetMap
+296593683,Collège Anador,5.3365978,-4.1029283,school,Inconnu,,,OpenStreetMap
+296965050,Groupe Scolaire la Bagoue,5.3342751,-4.0984995,school,Inconnu,,,OpenStreetMap
+296965078,Collège la Bagoue,5.3343662,-4.0983651,school,Inconnu,,,OpenStreetMap
+297973844,École sans nom,5.3412491,-4.0287974,school,Inconnu,,,OpenStreetMap
+300631545,École sans nom,5.3393419,-4.0888893,school,Inconnu,,,OpenStreetMap
+300631725,École sans nom,5.3389314,-4.0887249,school,Inconnu,,,OpenStreetMap
+300631800,EPP BAD,5.3391036,-4.0888804,school,Inconnu,,,OpenStreetMap
+302528846,GS Sicogi 9,5.3325679,-4.0750357,school,Inconnu,,,OpenStreetMap
+302529117,École sans nom,5.3299318,-4.0801949,school,Inconnu,,,OpenStreetMap
+302529123,École sans nom,5.3298143,-4.0798448,school,Inconnu,,,OpenStreetMap
+302529157,École sans nom,5.3301942,-4.0796477,school,Inconnu,,,OpenStreetMap
+302529198,École Sicogi 11,5.3300747,-4.0799186,school,Inconnu,,,OpenStreetMap
+302529543,École sans nom,5.332593,-4.075202,school,Inconnu,,,OpenStreetMap
+302529550,École sans nom,5.3325783,-4.0747661,school,Inconnu,,,OpenStreetMap
+302529556,École sans nom,5.3329923,-4.0751846,school,Inconnu,,,OpenStreetMap
+302529558,École sans nom,5.3329723,-4.074864,school,Inconnu,,,OpenStreetMap
+302529594,École sans nom,5.3302647,-4.0610905,school,Inconnu,,,OpenStreetMap
+302529804,École sans nom,5.3305608,-4.0611092,school,Inconnu,,,OpenStreetMap
+302529860,Batiment C,5.3290009,-4.0552138,school,Inconnu,,,OpenStreetMap
+302529868,Batiment D,5.3289731,-4.0549926,school,Inconnu,,,OpenStreetMap
+302529889,Batiment B,5.3288273,-4.0551185,school,Inconnu,,,OpenStreetMap
+302529895,Batiment A,5.328828,-4.0548564,school,Inconnu,,,OpenStreetMap
+302530776,École sans nom,5.3290457,-4.0549925,school,Inconnu,,,OpenStreetMap
+302690188,École sans nom,5.3284578,-4.0510423,school,Inconnu,,,OpenStreetMap
+302690272,École sans nom,5.3284559,-4.0507888,school,Inconnu,,,OpenStreetMap
+302690341,École sans nom,5.3285986,-4.0509128,school,Inconnu,,,OpenStreetMap
+302690429,Groupe Scolaire Siporex 5,5.3284298,-4.0508344,school,Inconnu,,,OpenStreetMap
+302690811,École sans nom,5.3259687,-4.0508586,school,Inconnu,,,OpenStreetMap
+302690847,École sans nom,5.3259754,-4.0505917,school,Inconnu,,,OpenStreetMap
+302690857,École sans nom,5.326109,-4.0507298,school,Inconnu,,,OpenStreetMap
+302690866,École sans nom,5.3257918,-4.0507251,school,Inconnu,,,OpenStreetMap
+302691170,Groupe Scolaire Siporex 3,5.3259887,-4.0506427,school,Inconnu,,,OpenStreetMap
+302879050,École sans nom,5.3446656,-4.0300335,school,Inconnu,,,OpenStreetMap
+303133709,Groupe Scolaire Rodin,5.3409421,-4.0964874,school,Private,,,OpenStreetMap
+303253743,École sans nom,5.3374388,-4.078237,school,Inconnu,,,OpenStreetMap
+303253746,École sans nom,5.3374862,-4.0778193,school,Inconnu,,,OpenStreetMap
+303253766,École sans nom,5.3376925,-4.0780626,school,Inconnu,,,OpenStreetMap
+303253791,École sans nom,5.3379382,-4.0782102,school,Inconnu,,,OpenStreetMap
+303253805,École sans nom,5.3377954,-4.0782947,school,Inconnu,,,OpenStreetMap
+303253809,École sans nom,5.337762,-4.077726,school,Inconnu,,,OpenStreetMap
+304967522,École sans nom,5.3375066,-4.0812256,school,Inconnu,,,OpenStreetMap
+304967639,École sans nom,5.3378844,-4.0814362,school,Inconnu,,,OpenStreetMap
+304967691,École sans nom,5.3379949,-4.0812891,school,Inconnu,,,OpenStreetMap
+304967888,École sans nom,5.3379963,-4.0815455,school,Inconnu,,,OpenStreetMap
+306308194,École sans nom,5.3381702,-4.0779462,school,Inconnu,,,OpenStreetMap
+306308250,École sans nom,5.3379484,-4.0778459,school,Inconnu,,,OpenStreetMap
+307284621,École sans nom,5.3300789,-3.9328669,school,Inconnu,,,OpenStreetMap
+307284685,École sans nom,5.3298617,-3.9331751,school,Inconnu,,,OpenStreetMap
+307284704,École sans nom,5.3296631,-3.9328009,school,Inconnu,,,OpenStreetMap
+307284924,École sans nom,5.3295334,-3.9326273,school,Inconnu,,,OpenStreetMap
+307285154,École sans nom,5.3301629,-3.9331142,school,Inconnu,,,OpenStreetMap
+307285382,Groupe Scolaire Primaire M’Badon,5.3295271,-3.9327603,school,Ministère de l'Education National et de l'Enseignement technique,,,OpenStreetMap
+307286396,École sans nom,5.3299308,-3.9335744,school,Inconnu,,,OpenStreetMap
+307286494,École sans nom,5.3299315,-3.933583,school,Inconnu,,,OpenStreetMap
+307287129,Groupe Scolaire Le Navire,5.3288157,-3.937645,school,Inconnu,,,OpenStreetMap
+307287745,École sans nom,5.3288553,-3.932984,school,Inconnu,,,OpenStreetMap
+307287750,Groupe Scolaire Elohim,5.3289074,-3.9329726,school,Inconnu,,,OpenStreetMap
+307293639,École sans nom,5.3395303,-3.9435727,school,Inconnu,,,OpenStreetMap
+307293753,École sans nom,5.3394322,-3.9433359,school,Inconnu,,,OpenStreetMap
+307294064,École sans nom,5.339294,-3.9435502,school,Inconnu,,,OpenStreetMap
+307294101,École sans nom,5.3391615,-3.9433695,school,Inconnu,,,OpenStreetMap
+307294185,École sans nom,5.3393672,-3.9437259,school,Inconnu,,,OpenStreetMap
+307746999,École sans nom,5.4239834,-4.0116442,school,Inconnu,,,OpenStreetMap
+307747001,École sans nom,5.4243091,-4.011971,school,Inconnu,,,OpenStreetMap
+307757798,EPP Habitat,5.3013333,-4.0073052,school,Inconnu,,,OpenStreetMap
+307893581,École sans nom,5.3539432,-4.0294161,school,Inconnu,,,OpenStreetMap
+307893585,École sans nom,5.3541405,-4.0305791,school,Inconnu,,,OpenStreetMap
+307893587,École sans nom,5.354025,-4.0305314,school,Inconnu,,,OpenStreetMap
+307893588,École sans nom,5.3541115,-4.0302518,school,Inconnu,,,OpenStreetMap
+307893595,École sans nom,5.3538572,-4.0300968,school,Inconnu,,,OpenStreetMap
+307893603,École sans nom,5.3543461,-4.0307068,school,Inconnu,,,OpenStreetMap
+307893605,École sans nom,5.3544978,-4.0303046,school,Inconnu,,,OpenStreetMap
+307893607,École sans nom,5.3546432,-4.0305071,school,Inconnu,,,OpenStreetMap
+307903365,École sans nom,5.3408363,-4.0287251,school,Inconnu,,,OpenStreetMap
+309193974,École sans nom,5.3839423,-4.0003825,school,Inconnu,,,OpenStreetMap
+309193975,École sans nom,5.3839673,-4.0006595,school,Inconnu,,,OpenStreetMap
+311507419,École sans nom,5.4289957,-4.0141959,school,Inconnu,,,OpenStreetMap
+311507420,École sans nom,5.4290691,-4.0136724,school,Inconnu,,,OpenStreetMap
+311507684,École sans nom,5.4290786,-4.0126383,school,Inconnu,,,OpenStreetMap
+311507728,École sans nom,5.4287342,-4.0126307,school,Inconnu,,,OpenStreetMap
+311507845,École sans nom,5.4285209,-4.0128069,school,Inconnu,,,OpenStreetMap
+311508540,École sans nom,5.4277852,-4.0128421,school,Inconnu,,,OpenStreetMap
+311508768,École sans nom,5.427866,-4.013375,school,Inconnu,,,OpenStreetMap
+311508790,École sans nom,5.4279925,-4.0136987,school,Inconnu,,,OpenStreetMap
+311508856,École sans nom,5.4281926,-4.0133802,school,Inconnu,,,OpenStreetMap
+311508949,École sans nom,5.4283321,-4.0136721,school,Inconnu,,,OpenStreetMap
+311509064,École sans nom,5.428585,-4.0133971,school,Inconnu,,,OpenStreetMap
+311509065,École sans nom,5.428601,-4.0140123,school,Inconnu,,,OpenStreetMap
+311510882,École sans nom,5.4248677,-4.01213,school,Inconnu,,,OpenStreetMap
+311511317,École sans nom,5.4251462,-4.0119897,school,Inconnu,,,OpenStreetMap
+311511318,École sans nom,5.42461,-4.0114253,school,Inconnu,,,OpenStreetMap
+311511496,École sans nom,5.4242455,-4.0114925,school,Inconnu,,,OpenStreetMap
+311511647,École sans nom,5.4235751,-4.0117951,school,Inconnu,,,OpenStreetMap
+311511652,École sans nom,5.4236873,-4.0115235,school,Inconnu,,,OpenStreetMap
+311522902,École sans nom,5.4192625,-4.018045,school,Inconnu,,,OpenStreetMap
+311525297,École sans nom,5.4317204,-4.0155568,school,Inconnu,,,OpenStreetMap
+311525300,École sans nom,5.4316927,-4.0159896,school,Inconnu,,,OpenStreetMap
+311525302,École sans nom,5.4319967,-4.0160732,school,Inconnu,,,OpenStreetMap
+311525347,École sans nom,5.4316922,-4.0163839,school,Inconnu,,,OpenStreetMap
+311525357,École sans nom,5.4319134,-4.0165226,school,Inconnu,,,OpenStreetMap
+311525360,École sans nom,5.4321287,-4.0164934,school,Inconnu,,,OpenStreetMap
+311525499,École sans nom,5.4323468,-4.0158846,school,Inconnu,,,OpenStreetMap
+311525531,École sans nom,5.432444,-4.0160865,school,Inconnu,,,OpenStreetMap
+311525587,École sans nom,5.4323704,-4.0165839,school,Inconnu,,,OpenStreetMap
+311527587,École sans nom,5.4367818,-4.0142826,school,Inconnu,,,OpenStreetMap
+311527605,École sans nom,5.4370698,-4.0142932,school,Inconnu,,,OpenStreetMap
+315643339,Panaf,5.3383994,-3.9934362,restaurant,Inconnu,,,OpenStreetMap
+318729345,École sans nom,5.3473036,-3.9487675,school,Inconnu,,,OpenStreetMap
+318729346,École sans nom,5.3468216,-3.9487892,school,Inconnu,,,OpenStreetMap
+318729452,École sans nom,5.3477318,-3.9488211,school,Inconnu,,,OpenStreetMap
+318729517,École sans nom,5.3480616,-3.9481744,school,Inconnu,,,OpenStreetMap
+318732786,École sans nom,5.3467238,-3.9493218,school,Inconnu,,,OpenStreetMap
+318732787,École sans nom,5.3472885,-3.9493813,school,Inconnu,,,OpenStreetMap
+321473788,Groupe Scolaire Sainte Foi,5.4451915,-4.0229771,school,Inconnu,,,OpenStreetMap
+321491474,École sans nom,5.4025472,-4.0059487,school,Inconnu,,,OpenStreetMap
+323290714,École sans nom,5.3587311,-3.9902381,school,Inconnu,,,OpenStreetMap
+323466567,École sans nom,5.358725,-3.990234,school,Inconnu,,,OpenStreetMap
+323639545,École primaire EPP Angré 2 et 3,5.4020896,-3.9868917,school,Inconnu,,,OpenStreetMap
+323639546,Groupe Scolaire Angré 1,5.4006081,-3.9896739,school,Inconnu,,,OpenStreetMap
+323846321,École La Pépinière de II Plateaux,5.3599093,-3.997115,school,Inconnu,,,OpenStreetMap
+323846323,École sans nom,5.3599236,-3.997161,school,Inconnu,,,OpenStreetMap
+323846324,École sans nom,5.360023,-3.9968423,school,Inconnu,,,OpenStreetMap
+324349799,Collège Les Dauphins,5.368757,-3.99071,school,Groupe Scolaire Les Dauphins,,,OpenStreetMap
+327695144,Groupe Soclaire Anono,5.3429536,-3.9727131,school,Inconnu,,,OpenStreetMap
+327752568,École Primaire l'Ardoise,5.3504923,-3.9559752,school,Inconnu,,,OpenStreetMap
+327811600,International Community School of Abidjan (ICSA),5.348513,-3.9515347,school,Inconnu,,,OpenStreetMap
+328402198,Paroisse St Jacque,5.3562755,-4.0005926,school,Inconnu,,,OpenStreetMap
+328556240,École Jacques Prévert,5.3471481,-3.9487912,school,Lycée Français Blaise Pascal d’Abidjan,,,OpenStreetMap
+328790623,École Internationale Jules Verne,5.3751991,-3.92382,school,École privée,,,OpenStreetMap
+328790629,École sans nom,5.3781821,-3.926035,school,Inconnu,,,OpenStreetMap
+328880521,Groupe Scolaire Notre-Dame de la Paix,5.3788707,-3.9553429,school,Inconnu,,,OpenStreetMap
+328885678,Groupe Scolaire Kouadio Assahore,5.3810103,-3.9651501,school,Inconnu,,,OpenStreetMap
+328987957,Epp Rosiers 5 A et B,5.3904726,-3.9671417,school,Inconnu,,,OpenStreetMap
+329385045,École Primaire Public Sanon,5.3838339,-4.0004027,school,Inconnu,,,OpenStreetMap
+329460704,École Primaire Public Aghien,5.3827221,-3.9963823,school,Inconnu,,,OpenStreetMap
+329668859,École Claire Fontaine,5.3632158,-3.9921777,school,Inconnu,,,OpenStreetMap
+330381497,École sans nom,5.3604525,-3.9925597,school,Inconnu,,,OpenStreetMap
+334332717,EPP Les Élysées,5.3460903,-4.0965581,school,Inconnu,,,OpenStreetMap
+334678454,École sans nom,5.3595734,-3.9968452,school,Inconnu,,,OpenStreetMap
+342866599,École sans nom,5.2586454,-3.9844241,school,Inconnu,,,OpenStreetMap
+343464161,Lycée Municipal d'Adjamé,5.3770356,-4.0223429,school,Inconnu,,,OpenStreetMap
+350966721,École Primaire Panorama,5.3979633,-4.0114409,school,Inconnu,,,OpenStreetMap
+351683176,College Panorama,5.3962372,-4.0100948,school,Inconnu,,,OpenStreetMap
+354260620,College Kema Angré,5.3928361,-3.9788771,school,Inconnu,,,OpenStreetMap
+354269237,École Primaire Catholique,5.3969561,-3.9801586,school,Inconnu,,,OpenStreetMap
+354273959,École Commandant Cousteau,5.4056439,-3.9854621,school,Inconnu,,,OpenStreetMap
+354273960,EPP caféier 2 A&B,5.4061847,-3.9857639,school,Inconnu,,,OpenStreetMap
+354297879,École Primaire Publique Groupement 4000,5.4097058,-3.982426,school,Inconnu,,,OpenStreetMap
+361191281,EPP Yopougon Attié,5.3492222,-4.0773042,school,Inconnu,,,OpenStreetMap
+363812619,Groupe Scolaire Cocody Est,5.3378374,-3.9989658,school,Inconnu,,,OpenStreetMap
+375107519,Lycée jeune fille de Yopougon,5.3468869,-4.0519201,school,Inconnu,,,OpenStreetMap
+377633621,École sans nom,5.299673,-3.9607032,school,Inconnu,,,OpenStreetMap
+377636117,École sans nom,5.2994904,-3.9604946,school,Inconnu,,,OpenStreetMap
+377636506,École sans nom,5.2993731,-3.9597303,school,Inconnu,,,OpenStreetMap
+377636514,École sans nom,5.2993952,-3.9602031,school,Inconnu,,,OpenStreetMap
+377645660,École sans nom,5.2998515,-3.9606497,school,Inconnu,,,OpenStreetMap
+377868037,École sans nom,5.3613738,-3.8883022,school,Inconnu,,,OpenStreetMap
+377868048,École sans nom,5.3610429,-3.8879029,school,Inconnu,,,OpenStreetMap
+377872885,Lycée de Garçons de Bingerville,5.3587154,-3.8911998,school,Inconnu,,,OpenStreetMap
+378393795,École sans nom,5.2994816,-3.9599371,school,Inconnu,,,OpenStreetMap
+379420183,École sans nom,5.299101,-3.960193,school,Inconnu,,,OpenStreetMap
+379420877,École sans nom,5.2992788,-3.9607602,school,Inconnu,,,OpenStreetMap
+382853995,École sans nom,5.4241095,-4.0119137,school,Inconnu,,,OpenStreetMap
+382877482,École sans nom,5.4218018,-4.0136829,school,Inconnu,,,OpenStreetMap
+382880769,École sans nom,5.4207034,-4.0144344,school,Inconnu,,,OpenStreetMap
+392619389,École sans nom,5.3249707,-4.1056697,school,Inconnu,,,OpenStreetMap
+392619442,École sans nom,5.324939,-4.1055781,school,Inconnu,,,OpenStreetMap
+392619904,Groupe Scolaire Saint Chalmel,5.3250914,-4.1056451,school,Inconnu,,,OpenStreetMap
+392623587,École sans nom,5.3284239,-4.1024627,school,Inconnu,,,OpenStreetMap
+392623697,École sans nom,5.3284702,-4.1022685,school,Inconnu,,,OpenStreetMap
+392623825,École sans nom,5.3286411,-4.1023554,school,Inconnu,,,OpenStreetMap
+392624173,Groupe scolaire La Genèse,5.3285149,-4.1023738,school,Inconnu,,,OpenStreetMap
+393523136,Collège Moderne Autoroute,5.3005404,-3.9973822,school,Inconnu,,,OpenStreetMap
+398127301,École sans nom,5.2540914,-3.939198,school,Inconnu,,,OpenStreetMap
+398136739,École sans nom,5.2554858,-3.9414029,school,Inconnu,,,OpenStreetMap
+398143295,École sans nom,5.2494593,-3.943797,school,Inconnu,,,OpenStreetMap
+398994456,École sans nom,5.3006756,-3.9966425,school,Inconnu,,,OpenStreetMap
+399183680,Collège moderne de Biétry,5.2787434,-3.9769469,school,Inconnu,,,OpenStreetMap
+399999420,Jin-A,5.3588652,-4.0008861,kindergarten,Inconnu,,,OpenStreetMap
+404165178,Institut Des Sciences et Techniques De La Communication,5.3425557,-4.0007572,school,Inconnu,,,OpenStreetMap
+404865674,École sans nom,5.2830135,-4.0909264,school,Inconnu,,,OpenStreetMap
+420110972,École sans nom,5.4217904,-4.0126871,school,Inconnu,,,OpenStreetMap
+420367237,Groupe scolaire star 9B,5.4137833,-3.9920175,kindergarten,Inconnu,,,OpenStreetMap
+420367247,École sans nom,5.4151593,-3.9912107,kindergarten,Inconnu,,,OpenStreetMap
+429075950,École sans nom,5.3597297,-3.996697,school,Inconnu,,,OpenStreetMap
+442192110,Ecole primaire publique Bad Municipalité,5.4045397,-4.0197519,school,Inconnu,,,OpenStreetMap
+447047673,Adoi Centrale Électrique,5.3367464,-4.087305,school,Inconnu,,,OpenStreetMap
+481979168,École Coranique,5.3984784,-4.0131335,school,Inconnu,,,OpenStreetMap
+491297858,Centre Zagal,5.3632993,-4.0629513,school,Fondation Amigo,120,,OpenStreetMap
+506846284,École Primaire publique,5.4695337,-4.1849851,school,Inconnu,,,OpenStreetMap
+510808462,Groupe Scolaire Kennedy,5.4179024,-4.0078487,school,Inconnu,,,OpenStreetMap
+525778686,EPP Guy Nere,5.4440714,-4.0094587,school,Inconnu,,,OpenStreetMap
+533473491,EPP sicogi 2,5.3562475,-3.8800973,school,Inconnu,,,OpenStreetMap
+544972544,Groupe Scolaire Canal,5.3234712,-4.0890712,school,Inconnu,,,OpenStreetMap
+552602347,Lycée Moderne de Yopougon Andokoi,5.3631451,-4.0678691,school,Inconnu,,,OpenStreetMap
+552607810,École sans nom,5.3662396,-4.0719071,school,Inconnu,,,OpenStreetMap
+554339265,École sans nom,5.3659771,-4.0709443,school,Inconnu,,,OpenStreetMap
+554496779,École sans nom,5.3586554,-4.0714272,school,Inconnu,,,OpenStreetMap
+554496782,École sans nom,5.3575023,-4.0760082,school,Inconnu,,,OpenStreetMap
+554496783,École sans nom,5.357923,-4.0760633,school,Inconnu,,,OpenStreetMap
+554496784,École sans nom,5.3579314,-4.0759041,school,Inconnu,,,OpenStreetMap
+554496786,École sans nom,5.3577084,-4.0754936,school,Inconnu,,,OpenStreetMap
+554496787,École sans nom,5.3578168,-4.0754985,school,Inconnu,,,OpenStreetMap
+554496788,École sans nom,5.3582201,-4.0760525,school,Inconnu,,,OpenStreetMap
+554496789,École sans nom,5.3580946,-4.0755616,school,Inconnu,,,OpenStreetMap
+554496790,École sans nom,5.358365,-4.0755545,school,Inconnu,,,OpenStreetMap
+574837868,Collège Notre Dame d'Afrique,5.2711472,-3.9749099,school,Inconnu,,,OpenStreetMap
+580430005,École sans nom,5.3364675,-4.0586049,school,Inconnu,,,OpenStreetMap
+580430007,École sans nom,5.3362164,-4.058319,school,Inconnu,,,OpenStreetMap
+580430009,École sans nom,5.3362229,-4.0588635,school,Inconnu,,,OpenStreetMap
+580430011,École sans nom,5.3359626,-4.0584323,school,Inconnu,,,OpenStreetMap
+583500478,EPP Sogefiha 5,5.3269568,-4.0649591,school,Inconnu,,,OpenStreetMap
+590882102,École EPP Biabou 2,5.4421514,-3.981537,school,Inconnu,,,OpenStreetMap
+590882109,École EPP Biabou 1,5.4386178,-3.9854911,school,Inconnu,,,OpenStreetMap
+594776838,EPP Pont,5.3271155,-4.0976854,school,Inconnu,,,OpenStreetMap
+615963001,École sans nom,5.3075855,-3.9774283,kindergarten,Inconnu,,,OpenStreetMap
+618248686,Groupe Scolaire Zhein Ahmad,5.3431251,-3.9424864,school,Inconnu,,,OpenStreetMap
+630697930,Lycée Moderne le Conquerant de Bingerville,5.3562745,-3.8788577,school,Inconnu,,,OpenStreetMap
+631646116,École sans nom,5.2965967,-3.9582148,school,Inconnu,,,OpenStreetMap
+635719684,École sans nom,5.2751465,-3.9943251,school,Inconnu,,,OpenStreetMap
+681597199,Goupe Scolaire Nord Koumassi,5.299464,-3.9602826,school,Inconnu,,,OpenStreetMap
+681966743,École primaire,5.3063784,-3.947573,school,Inconnu,,,OpenStreetMap
+686896878,Lycee Moderne De Koumassi,5.2891238,-3.9607578,school,Inconnu,,,OpenStreetMap
+686987918,École sans nom,5.2843236,-3.9668847,school,Inconnu,,,OpenStreetMap
+686987921,École sans nom,5.2867737,-3.9662636,school,Inconnu,,,OpenStreetMap
+686987925,Ecole Primaire Lac,5.289272,-3.9631096,school,Inconnu,,,OpenStreetMap
+687025905,Cours Sévigné Collège,5.2928929,-3.9786494,school,Inconnu,,,OpenStreetMap
+687305196,Lycée Municipal de Marcory,5.3040448,-3.9714871,school,Inconnu,,,OpenStreetMap
+687373812,École sans nom,5.2955236,-3.9740246,school,Inconnu,,,OpenStreetMap
+688353364,Groupe Scolaire Chateau d'eau,5.3368772,-4.0025766,school,Inconnu,,,OpenStreetMap
+697116011,Groupe ASK,5.3557877,-4.0889701,school,Inconnu,,,OpenStreetMap
+736632701,Collège les grâces,5.4370215,-4.0034993,school,Inconnu,,,OpenStreetMap
+773649364,Groupe scolaire Abrahams Lincoln,5.4398368,-4.0112298,school,Inconnu,,,OpenStreetMap
+787175370,École sans nom,5.4323457,-4.016278,school,Inconnu,,,OpenStreetMap
+787175371,École sans nom,5.4322607,-4.0163645,school,Inconnu,,,OpenStreetMap
+787175375,EPP BAD,5.442577,-4.0096519,school,Inconnu,,,OpenStreetMap
+816283207,Collège catholique Saint Paul de M'badon,5.3327295,-3.9408295,school,Inconnu,,,OpenStreetMap
+817211904,École sans nom,5.3757792,-3.9791462,school,Inconnu,,,OpenStreetMap
+824568819,École sans nom,5.4218365,-4.0127853,school,Inconnu,,,OpenStreetMap
+824610654,École sans nom,5.4275614,-4.0166346,school,Inconnu,,,OpenStreetMap
+824908452,École sans nom,5.4253322,-4.0120629,school,Inconnu,,,OpenStreetMap
+936919204,École sans nom,5.3409963,-4.0286753,school,Inconnu,,,OpenStreetMap
+936919212,École sans nom,5.340955,-4.0280558,school,Inconnu,,,OpenStreetMap
+937113427,École sans nom,5.3407907,-4.0271649,school,Inconnu,,,OpenStreetMap
+937115118,École sans nom,5.3407663,-4.0284269,school,Inconnu,,,OpenStreetMap
+937285458,École sans nom,5.3412128,-4.0282612,school,Inconnu,,,OpenStreetMap
+937285459,École sans nom,5.3412272,-4.0284461,school,Inconnu,,,OpenStreetMap
+937285460,École sans nom,5.3412309,-4.0285723,school,Inconnu,,,OpenStreetMap
+937286777,École sans nom,5.3411112,-4.0287202,school,Inconnu,,,OpenStreetMap
+937415462,École sans nom,5.3410258,-4.0269927,school,Inconnu,,,OpenStreetMap
+943205719,École sans nom,5.3455604,-4.0299993,school,Inconnu,,,OpenStreetMap
+948417998,Groupe Scolaire Anonkoua Kouté BAD A & B,5.4309562,-4.0442066,school,Inconnu,,,OpenStreetMap
+950389804,École sans nom,5.3452033,-4.0299956,school,Inconnu,,,OpenStreetMap
+962755377,École sans nom,5.2361891,-3.8729411,school,Inconnu,,,OpenStreetMap
+962755378,École sans nom,5.236282,-3.8731487,school,Inconnu,,,OpenStreetMap
+999686470,École sans nom,5.3289208,-4.0223645,school,Inconnu,,,OpenStreetMap
+1239417080,Collège SEPI Yopougon,5.3535795,-4.0706644,school,Inconnu,,,OpenStreetMap
+1239589783,Lycée Technique de Yopougon,5.3571266,-4.0820658,school,Inconnu,,,OpenStreetMap
+1240130006,École sans nom,5.3713265,-3.8868143,school,Inconnu,,,OpenStreetMap
+1241313555,Groupe Scolaire Catholique Saint-Rosaire,5.3270013,-3.942132,school,Inconnu,,,OpenStreetMap
+1241366237,Lycée Mamie Fêtai Houphouët de Bingerville,5.3590501,-3.8963455,school,Inconnu,,,OpenStreetMap
+1247316161,Groupe Scolaire l'Ardoise,5.3499323,-3.9549666,school,Inconnu,,,OpenStreetMap
+1259768615,Collège André Malraux,5.3562854,-3.9783247,school,Inconnu,,,OpenStreetMap
+1259768616,Primaire André Malraux,5.356734,-3.9784516,school,Inconnu,,,OpenStreetMap
+1270733367,Université Internationale Privée d’Abidjan,5.3339389,-3.9383378,school,Inconnu,,,OpenStreetMap
+1270743031,École sans nom,5.3360399,-4.0802433,school,Inconnu,,,OpenStreetMap
+1270743037,EPP Sogefia Magasin,5.3361905,-4.0833034,school,Inconnu,,,OpenStreetMap
+1270856188,École sans nom,5.3653414,-3.8972758,school,Inconnu,,,OpenStreetMap
+1271444749,Lycée Moderne de Gonzague,5.2505654,-3.8985997,school,Inconnu,,,OpenStreetMap
+1283786339,Groupe Scolaire Les Scarabées,5.3393583,-3.9434486,school,Inconnu,,,OpenStreetMap
+1284512662,Ecole Maternelle Municipale du Plateau,5.3362811,-4.0235515,school,Inconnu,,,OpenStreetMap
+1290565641,Groupe Scolaire Cité des Arts,5.346717,-3.9990909,school,Inconnu,,,OpenStreetMap
+1290565642,Maternelle Cité des Arts,5.3462684,-3.9991767,school,Inconnu,,,OpenStreetMap
+1290565643,Collège Moderne Cité des Arts,5.3471903,-3.999119,school,Inconnu,,,OpenStreetMap
+1290566867,Ecole Primaire Publique Cocody Sud,5.3323541,-4.0027829,school,Inconnu,,,OpenStreetMap
+1290566871,Ecole Primaire Publique Municipalité 1 et 2,5.3329951,-3.9981111,school,Inconnu,,,OpenStreetMap
+1323154341,Collège Privé Mic-Ci Espoir de Brofodoumé,5.5184995,-3.9345659,school,Inconnu,,,OpenStreetMap
+1334563694,Lycée Moderne Djedji Amondji Pierre d'Adjamé,5.3517602,-4.0151997,school,Inconnu,,,OpenStreetMap
+1365560786,Lycée Moderne de Port Bouët,5.2552051,-3.9581065,school,Inconnu,,,OpenStreetMap
+1365560800,École sans nom,5.2530423,-3.9568956,school,Inconnu,,,OpenStreetMap
+1379172568,CAFOP d'Abidjan,5.4970679,-4.0317914,school,Inconnu,,,OpenStreetMap
+1386665446,École primaire BAD,5.4342805,-4.0323224,school,Inconnu,,,OpenStreetMap
+1386670405,EPP le Banco,5.4112964,-4.0215676,school,Inconnu,,,OpenStreetMap
+1395025511,Centre de Formation par Apprentissage aux Métiers du Bâtiment,5.3575617,-4.0777434,school,Inconnu,,,OpenStreetMap
+1395025513,Lycée Professionnel Commercial de Yopougon,5.3593894,-4.0794565,school,Inconnu,,,OpenStreetMap
+1395025515,Centre Multisectoriel de Formation Professionnelle Mohammed VI,5.3587081,-4.0755998,school,Inconnu,,,OpenStreetMap
+1395025516,Centre de Perfectionnement aux Techniques Industrielles,5.3574797,-4.0756061,school,Inconnu,,,OpenStreetMap
+1395025517,Centre de Perfectionnnement aux Metiers de l'Imprimerie,5.3592428,-4.077245,school,Inconnu,,,OpenStreetMap
+1395025522,Lycée Professionnel Sectoriel,5.3571528,-4.0799527,school,Inconnu,,,OpenStreetMap
+1395179384,École sans nom,5.3290665,-4.0775858,school,Inconnu,,,OpenStreetMap
+1395183677,École sans nom,5.3531124,-4.0913943,school,Inconnu,,,OpenStreetMap
+1395193889,École sans nom,5.5016294,-4.0506142,school,Inconnu,,,OpenStreetMap
+1395257997,EPP Anonkoi Kouté,5.4382159,-4.0440594,school,Inconnu,,,OpenStreetMap
+1395597203,Collège Moderne d’Abobo,5.4483717,-4.0614513,school,Inconnu,,,OpenStreetMap
+1395608596,EPP Anonkoua Kouté 3 & 4,5.4343595,-4.0474534,school,Inconnu,,,OpenStreetMap
+1395854832,Collège International Les Vallées d'Angré,5.4228632,-3.9597057,school,Inconnu,,,OpenStreetMap
+1395856836,École sans nom,5.4248164,-3.9847209,school,Inconnu,,,OpenStreetMap
+1395856846,École sans nom,5.4444089,-3.9839653,school,Inconnu,,,OpenStreetMap
+1396115644,EPP Forêt du Banco A&B,5.3870881,-4.0759163,school,Inconnu,,,OpenStreetMap
+1448484383,Centre des Metiers de l’Eau,5.3556476,-4.1040899,school,Sodeci,,,OpenStreetMap

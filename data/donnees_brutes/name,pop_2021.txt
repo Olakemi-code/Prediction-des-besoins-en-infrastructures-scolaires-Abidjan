@@ -1,0 +1,14 @@
+name,pop_2021
+Abobo,1340083
+Adjamé,372939
+Attécoubé,311602
+Cocody,630919
+Koumassi,412204
+Marcory,274838
+Plateau,7148
+Port-Bouët,515519
+Treichville,106552
+Yopougon,1571065
+Anyama,246582
+Bingerville,306236
+Songon,112170
